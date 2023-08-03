@@ -1,0 +1,1001 @@
+book_id,title,author,publication_date,genre,isbn,publisher,language,page_count,available_copies,rating,price
+1,See No Evil,Selma Trahair,7/22/1935,Romance,146012843-5,Brainlounge,Burmese,3636,4,2.6,150.15
+2,"King Is Alive, The",Alvy Borrows,10/4/2003,Science Fiction,790555306-X,Twitterworks,Finnish,1838,13,4.9,75.79
+3,Bring It On Again,Leela Bubeer,1/17/1912,Mystery,076346056-7,Yakijo,Hiri Motu,1235,2,3.4,646.77
+4,"Marriage Circle, The",Josefina Hesser,10/13/1995,Mystery,969348859-8,Vimbo,Armenian,622,20,3.3,580.64
+5,"Jerk Theory, The",Kathe Lyster,12/28/1969,Science Fiction,103085267-7,Yabox,Irish Gaelic,9240,15,2.8,683.42
+6,For Keeps,Dominick Mardling,3/4/2005,Non-Fiction,892728267-1,Blogpad,Yiddish,3765,20,3.1,187.23
+7,Roller Boogie,Fawne Laffin,10/28/1947,Science Fiction,988505589-4,Jabbercube,Georgian,5050,3,2.4,624.37
+8,Lovely to Look At,Jard Woollam,4/12/1913,Science Fiction,537539232-1,Divavu,Icelandic,7905,9,1.3,922.25
+9,Cop and ½,Katuscha Massingham,12/6/1941,Mystery,274749350-4,Dynazzy,German,2542,19,2.7,7.84
+10,Midnight Movies: From the Margin to the Mainstream,Enrique Cummungs,7/17/1956,Non-Fiction,832295221-X,Fadeo,Luxembourgish,7729,18,2.0,911.27
+11,Atrocious,Marcelline Spellicy,12/31/1966,Mystery,191233434-8,Topicware,Tajik,9774,18,4.7,325.59
+12,State Affairs (Une affaire d'état),Kim Sainthill,6/25/1945,Mystery,147326049-3,Agimba,Haitian Creole,8268,2,4.8,396.83
+13,Graveyard Shift (Stephen King's Graveyard Shift),Verina Attersoll,6/25/1969,Science Fiction,697780176-X,Tagtune,Kannada,9020,2,1.8,505.92
+14,Snow Day,Donni Sieghard,5/27/1906,Non-Fiction,802905464-5,Jatri,Kashmiri,3941,3,2.2,987.69
+15,"Blue Lagoon, The",Merry Goggins,6/2/1957,Romance,944131772-1,Yoveo,English,8126,4,2.9,127.42
+16,Open Season,Dorey Sallarie,3/2/1935,Non-Fiction,879931398-7,Jetpulse,Finnish,7560,20,3.4,266.51
+17,12th & Delaware,Byron Baytrop,6/28/1971,Science Fiction,929429156-1,Twitterworks,Filipino,9544,0,4.5,788.5
+18,Leontine,Jose Casaroli,1/2/1931,Romance,726178639-X,Gigashots,Guaraní,9716,0,4.0,910.38
+19,Norman,Gualterio Peye,12/13/2013,Non-Fiction,011020174-4,Edgeblab,Dhivehi,6859,18,1.9,346.64
+20,Mrs. Parkington,Monika Broadbridge,6/11/1911,Non-Fiction,836125572-9,Quatz,Nepali,3234,15,4.6,506.5
+21,Love and Basketball,Emlyn Huffer,2/17/1975,Science Fiction,256807981-9,Zoomcast,Telugu,4132,1,4.3,319.37
+22,Bionicle: The Legend Reborn,Mathias Roundtree,9/15/1947,Non-Fiction,448024845-5,Wikizz,Fijian,4138,18,4.4,289.86
+23,"Clown and the Kid, The",Debera O'Ruane,5/2/1998,Science Fiction,389593375-9,Skiba,Thai,1844,20,1.8,566.74
+24,Harakiri (Seppuku),Winn De Francesco,11/12/1949,Non-Fiction,265186423-4,Blognation,Tsonga,2238,8,3.6,934.97
+25,Eva,Ripley O'Cahey,11/15/2005,Non-Fiction,753687144-9,Gigashots,Malayalam,6606,19,3.1,169.08
+26,Don't Look Now,Woodie Cutler,3/31/1917,Fiction,257896325-8,Topicstorm,Fijian,3852,1,4.3,787.68
+27,Here Comes the Boom,Sela Simpkin,1/21/1959,Romance,538072084-6,Skibox,Tamil,1848,4,1.9,707.62
+28,Fear of Flying,Carmel Hollows,11/7/1953,Science Fiction,326809186-5,Agivu,Gujarati,4879,19,2.9,345.17
+29,Orders to Kill,Sharleen Dranfield,9/12/1935,Fiction,227488712-8,JumpXS,Swahili,1722,17,1.0,676.34
+30,Melbourne,Deeyn Eisenberg,5/26/1967,Non-Fiction,292358906-8,Skimia,Swedish,9234,18,2.7,875.21
+31,Our Town,Barrett Pafford,1/9/1938,Non-Fiction,709565373-9,Wordtune,Catalan,3514,3,3.5,814.28
+32,"Three Musketeers, The",Julianna Hibling,5/26/1944,Fiction,100633516-1,Avaveo,Malayalam,8767,4,2.3,161.06
+33,Whoregasm,Augusto Van der Brugge,8/3/1915,Fiction,432086225-2,Bubbletube,Malay,6950,4,3.9,95.26
+34,Stealth,Abbot Genty,12/21/1930,Mystery,703275612-3,Kazio,Kurdish,8391,0,4.3,425.56
+35,Magicians,Nananne Sodo,11/23/1950,Fiction,217275559-1,Brainverse,Swedish,7344,20,2.2,506.46
+36,"Darwin Awards, The",Frasco Jessopp,7/29/2009,Mystery,702449221-X,JumpXS,Tok Pisin,5906,6,3.4,803.37
+37,Love Steaks,Tadd Venners,9/27/1998,Fiction,542032464-4,Topicblab,Czech,2727,1,3.7,950.02
+38,"You're a Good Man, Charlie Brown",Aluino Corneliussen,7/5/1910,Mystery,794311300-4,Vitz,Estonian,1220,0,4.7,261.18
+39,African Cats,Editha Mountfort,4/18/1922,Fiction,281524766-6,Twimm,Aymara,5401,4,3.7,779.07
+40,From the Orient with Fury,Bailie Kas,10/31/1992,Mystery,453339765-4,Jabbercube,Dhivehi,6048,20,4.7,737.03
+41,Just Between Friends,Maxim Mingus,8/10/2011,Science Fiction,884342470-X,Tekfly,Kazakh,3609,17,3.2,274.65
+42,"Cow, The (Gaav)",Sylvan Girardini,9/20/1902,Fiction,450113127-6,Zoozzy,Irish Gaelic,1956,3,4.3,187.47
+43,Jabberwocky,Danny Millmoe,12/2/1994,Non-Fiction,205275926-3,Jetwire,Latvian,2521,5,1.9,606.61
+44,The Great Scout & Cathouse Thursday,Orelee Swapp,5/17/2006,Romance,420693780-X,Aibox,Assamese,9334,7,4.6,217.05
+45,"Pirate Movie, The",Cross Fright,1/4/1913,Science Fiction,698168328-8,Kwideo,New Zealand Sign Language,2357,19,2.7,623.01
+46,Ruby in Paradise,Marcile Lehenmann,5/9/1923,Mystery,357335856-X,Thoughtworks,Mongolian,4726,20,3.1,564.35
+47,"Mechanic, The",Dwight Edmondson,5/24/1957,Fiction,730876941-0,Flashset,Amharic,6689,2,4.4,157.69
+48,"Singing Detective, The",Templeton Basnett,4/5/2012,Fiction,716043854-X,Leexo,Finnish,9655,10,4.0,819.52
+49,Gregory Crewdson: Brief Encounters,Camel Roony,10/27/1952,Non-Fiction,317016324-8,Gabvine,Bosnian,2965,20,3.1,884.38
+50,Conquest of Space,Bendite Yearsley,9/24/1913,Fiction,253370415-6,Aivee,Azeri,7553,19,3.0,882.59
+51,"Hole in the Head, A",Letizia Fransewich,3/21/1958,Mystery,131241762-5,Twinder,Tswana,2565,9,2.6,606.92
+52,Scusa ma ti chiamo amore,Adlai Flowitt,8/27/1968,Mystery,804467887-5,Camido,West Frisian,1621,14,4.3,215.4
+53,Law and Order,Dyna Coope,1/7/1914,Romance,189438300-1,Edgeclub,Dzongkha,127,6,2.6,716.32
+54,"Piano in a Factory, The (Gang de qin)",Kerstin Brotheridge,12/13/1970,Mystery,903835660-9,Trupe,Armenian,6096,15,2.2,966.93
+55,"Battle of Shaker Heights, The",Olivero Yukhnin,7/19/1917,Mystery,938934655-X,Topicblab,Macedonian,3544,13,2.6,105.81
+56,Memory,Reamonn Coulthurst,2/27/1973,Fiction,713808787-X,Edgepulse,Ndebele,3425,2,4.1,319.26
+57,Bluebeard (Barbe Bleue),Ciel Maund,1/4/1958,Non-Fiction,223483451-1,Skimia,Tswana,7670,1,2.0,4.48
+58,Kiss the Bride,Elbertine Allbut,5/20/1934,Fiction,839949958-7,Oyondu,Indonesian,4163,3,1.4,569.56
+59,"Little Stiff, A",Yolane Gladbeck,11/4/1943,Science Fiction,688559395-8,Minyx,Irish Gaelic,3702,13,2.3,69.37
+60,They Call Us Misfits (Dom kallar oss mods),Hally Meates,1/29/1988,Fiction,047572680-4,Talane,Catalan,7979,19,4.3,810.36
+61,Ken Park,Bobbe Tomlin,3/6/2007,Fiction,345656914-9,Fanoodle,Georgian,2807,6,4.7,320.38
+62,R,Kathye Petchell,5/28/1970,Fiction,913341872-1,Livetube,Norwegian,7371,18,3.6,319.84
+63,Offside,Lynde Cockerell,2/22/1941,Non-Fiction,499631893-7,Flipbug,Croatian,980,0,1.6,266.26
+64,Little Nemo: Adventures in Slumberland,Meryl Keeton,12/24/2013,Science Fiction,188393969-0,Dynava,Fijian,6396,14,2.4,724.92
+65,À nous la liberté (Freedom for Us),Brunhilde Hebdon,4/5/1946,Non-Fiction,362263001-9,Wordify,Arabic,4703,18,2.3,299.11
+66,People I Know,Zena Treven,6/4/1978,Mystery,866146393-9,Plajo,Malayalam,4513,9,3.2,356.2
+67,Splice,Dacia Brockley,7/6/1968,Fiction,073385364-1,Tagchat,Hiri Motu,3727,4,3.3,555.95
+68,Divided We Fall (Musíme si pomáhat),Wilhelmina de Tocqueville,3/9/2013,Science Fiction,429875743-9,Rooxo,Finnish,4351,5,4.2,906.42
+69,One Kill,Wenonah Lunk,4/20/1909,Non-Fiction,998799709-0,Fliptune,English,6994,7,1.5,731.2
+70,Open Season 3,Anjela Ingolotti,9/28/1982,Romance,269519049-2,Devbug,Guaraní,2486,11,3.6,441.5
+71,ATF ,Dita Jee,8/22/1902,Science Fiction,646682610-4,Twimbo,Hindi,7796,19,4.1,768.49
+72,"Gypsy Moths, The",Maddi Goldney,8/21/1942,Mystery,472912673-4,Brainlounge,Swati,4146,1,4.7,930.04
+73,Good Luck. And Take Care of Each Other,Cirilo Seleway,3/29/2004,Non-Fiction,474959307-9,Thoughtsphere,Dhivehi,4688,3,1.7,204.39
+74,"Guy and a Gal, A (En kille och en tjej)",Rand Nobbs,6/13/1956,Non-Fiction,678892491-0,Trupe,Afrikaans,8587,7,3.0,921.41
+75,"Dunce Class on Vacation, The (Hababam sinifi tatilde)",Pauly Tolworthy,10/1/1988,Mystery,926464644-2,Yadel,Armenian,1890,3,2.1,629.48
+76,Hideous Kinky,Marsiella Southwell,1/13/1971,Mystery,496707447-2,Quamba,Yiddish,912,2,1.9,79.35
+77,Hiding Out,Carmelina Kohn,12/23/1947,Science Fiction,540451555-4,Linkbridge,Irish Gaelic,7720,7,1.9,437.39
+78,Requiem for a Dream,Vonny Lefeaver,9/28/2014,Science Fiction,273629269-3,Ozu,Telugu,4647,5,3.9,142.33
+79,Free Zone,Sean Ingray,1/12/2022,Non-Fiction,006762177-5,Lazz,Dzongkha,6564,5,2.5,713.62
+80,Madonna: Truth or Dare,Saxon Blethyn,5/8/1988,Science Fiction,099168701-9,Topiczoom,English,8407,13,4.2,564.23
+81,Ocean's Thirteen,Leonore Frayn,2/9/1995,Mystery,559498925-0,Dablist,Hindi,4545,5,3.2,458.31
+82,Spencer's Mountain,Lane Masserel,1/1/1932,Fiction,368329272-5,Voonix,Afrikaans,2153,10,2.3,967.34
+83,Dr. Dolittle,Carley Arnao,5/6/1945,Fiction,526593728-5,Meevee,Malayalam,7682,4,5.0,662.59
+84,Katt Williams: Priceless: Afterlife,Hastie Rumbellow,6/14/1954,Romance,420558431-8,Wikizz,French,7599,9,1.3,191.08
+85,One Man's Hero,Gerty Sitwell,4/5/1950,Fiction,264466176-5,Mita,Armenian,3302,11,2.9,146.4
+86,"Honeymooners, The",Ariel Booy,8/31/2001,Romance,029872927-X,Photobug,Swahili,548,1,3.9,788.41
+87,Nicotina,Peri Skeath,10/11/1926,Science Fiction,686692630-0,Geba,Gujarati,9906,9,3.8,811.77
+88,Gidget,Izaak Beare,4/19/2011,Romance,930589953-6,Lazz,Irish Gaelic,1243,17,1.2,133.96
+89,Black Rain (Kuroi ame),Sharity McPharlain,3/1/2019,Romance,904325790-7,Eazzy,Tajik,1955,12,4.2,758.31
+90,Cremaster 3,Gretna Bertomeu,10/29/1934,Mystery,675598338-1,Camido,Guaraní,8762,14,4.6,456.43
+91,Murder Party,Jacynth O'Sherrin,7/18/1915,Non-Fiction,111718685-7,Photolist,Assamese,7443,13,2.7,955.08
+92,Golden Earrings,Flossie Ipsly,5/7/1959,Mystery,504414872-5,Mymm,Swahili,1549,19,4.8,602.97
+93,30 Beats,Meier Tirrell,2/21/2018,Non-Fiction,902429627-7,Centizu,Assamese,3113,14,4.9,490.47
+94,Return with Honor,Stefa Liptrod,9/29/1928,Fiction,584534353-4,Thoughtsphere,Persian,6546,5,4.4,923.76
+95,Kansas City Confidential,Lolly Wackett,11/24/2010,Science Fiction,096026071-4,Jabberstorm,Hebrew,1366,16,3.1,732.97
+96,"Dilemma, The",Franklyn Hyrons,4/23/1995,Fiction,502420342-9,Rhynoodle,Tamil,5501,18,3.9,564.75
+97,Dark House,Fabien Stocker,4/18/1922,Fiction,931139439-4,Wordware,Danish,9201,14,1.3,474.19
+98,"Secrets of Jonathan Sperry, The",Rutger Swin,9/11/1909,Science Fiction,802606300-7,Oyoba,Bulgarian,8392,20,3.5,755.04
+99,Cyrano de Bergerac,Elysha Verryan,9/17/1913,Fiction,396505136-9,Bubblebox,Swahili,9679,10,4.4,998.3
+100,Arsenic and Old Lace,Clarie Rosenshine,1/1/1943,Non-Fiction,358157370-9,Oyondu,Kannada,4589,18,1.0,88.9
+101,"Serious Man, A",Philomena Ragg,12/3/1919,Science Fiction,744925562-6,Wikizz,Quechua,5925,0,1.8,559.67
+102,"Werewolf Boy, A (Neuk-dae-so-nyeon)",Titus Mangham,5/19/1960,Romance,307999998-3,Podcat,Bislama,4106,18,1.7,330.32
+103,Man Made Monster,Tanney Shillabear,3/9/2017,Romance,231270291-6,Feednation,Lao,1449,5,2.1,571.34
+104,Air Doll (Kûki ningyô),Obidiah Vairow,3/28/1950,Science Fiction,277152939-4,Tagchat,Persian,4484,5,3.6,479.53
+105,Limbo,Aylmer Gingedale,7/12/1949,Mystery,259846412-5,Dabfeed,Dhivehi,1278,12,4.4,733.55
+106,My New Gun,Berni Sherrum,6/20/2021,Romance,633480466-9,Livetube,Japanese,9701,11,4.4,538.22
+107,Black or White,Farrel Jeannon,11/15/2008,Non-Fiction,703711085-X,Mynte,Punjabi,5149,7,4.3,755.21
+108,"Pink Panther, The",Tome Marre,2/18/1982,Mystery,299801037-7,Feedfish,Guaraní,4298,11,4.7,61.81
+109,The Hire: Ticker,Charmion Hugonet,12/2/1904,Science Fiction,096536453-4,Reallinks,Belarusian,6168,7,4.1,37.05
+110,Lonely Street,Albertine Kebbell,9/1/1919,Non-Fiction,162182265-6,Realpoint,Bulgarian,6910,14,1.8,918.67
+111,Simply Irresistible,Allyn Lockyear,4/16/1987,Romance,027131718-3,Gabspot,Zulu,6657,1,4.0,935.66
+112,My Favorite Blonde,Albert Gallager,7/19/1941,Mystery,459026622-9,Vimbo,Hindi,1765,13,1.9,819.7
+113,Beyond Outrage,Rivkah Bon,12/14/1992,Non-Fiction,241413364-3,Aimbu,Korean,4280,20,3.9,133.06
+114,"Single Girl, A (Fille seule, La)",Estelle Griniov,7/4/2007,Romance,470944161-8,Shufflebeat,Icelandic,4004,5,4.1,866.41
+115,Adopted,Kleon McKerron,9/7/2002,Mystery,951915337-3,Yambee,Romanian,785,4,4.3,207.64
+116,Broken Lance,Gonzalo Tocknell,7/8/1916,Mystery,853881449-4,Jayo,Tsonga,7290,7,4.7,636.29
+117,We're No Angels,Remington Faich,11/16/1985,Science Fiction,321098445-X,Flashdog,Thai,9211,17,4.2,594.27
+118,Linotype: The Film,Hunter Peddowe,11/24/1962,Romance,367247152-6,Realmix,Kurdish,8230,10,4.8,256.51
+119,"Last American Virgin, The",Selma Hatwell,2/22/1962,Mystery,713668086-7,Gigashots,Quechua,2108,12,1.8,893.8
+120,"Late George Apley, The",Giffy Yurevich,11/12/2003,Romance,288496758-3,Brightdog,Nepali,3575,18,1.3,577.33
+121,Possession,Madelin Elmore,6/19/1997,Fiction,050198469-0,Minyx,Yiddish,9256,3,3.2,450.99
+122,Haunt,Jedidiah Curtin,11/26/2021,Romance,898429644-9,Flipstorm,Malayalam,408,5,3.1,892.0
+123,"Streaks, The (Pregi)",Bradly Cuxon,6/9/1983,Mystery,782420119-8,Edgeclub,Italian,106,0,1.2,287.75
+124,In Bruges,Corena Reynold,10/26/1900,Science Fiction,427817775-5,Ooba,Northern Sotho,4425,8,1.8,610.06
+125,"Errand Boy, The",Eldin Farge,3/16/1948,Mystery,013136541-X,Skynoodle,Italian,9370,4,3.9,184.82
+126,"Iceman Tapes: Conversations with a Killer, The",Dyane Hubatsch,11/8/1904,Non-Fiction,044082357-9,Eire,Hungarian,7335,18,2.6,989.1
+127,It's Alive,Dani Cicccitti,5/27/1993,Romance,864655090-7,Twitterworks,Kannada,7341,4,4.0,74.25
+128,Cheech and Chong's Animated Movie,Rachel de Keep,8/18/1900,Romance,804142037-0,Skyvu,Sotho,4748,16,2.5,659.29
+129,Joe's Apartment,Cairistiona Camblin,4/30/1941,Romance,151964448-5,Innojam,Kazakh,8233,20,3.2,944.14
+130,Marked Woman,Shell Paprotny,2/8/1942,Fiction,903892339-2,Dabvine,Guaraní,6616,5,1.0,299.76
+131,Chaos,Taffy Sellek,8/16/2011,Fiction,333952283-9,Skinder,Lithuanian,6639,15,2.7,874.98
+132,Future Weather,Balduin Tick,8/22/1974,Mystery,668147341-5,Dynabox,Bosnian,9618,13,2.4,97.32
+133,Home Sweet Hell,Carmita Senechell,11/19/1960,Mystery,644529146-5,Voomm,Chinese,4148,8,2.6,277.51
+134,Naked Souls,Linnie Keuning,11/23/2022,Romance,043031437-X,Tagopia,Danish,8716,0,2.0,16.33
+135,Happy Birthday to a Beautiful Woman,Marlane Farnworth,4/8/2015,Non-Fiction,527075359-6,Leenti,Nepali,7599,19,1.7,204.25
+136,Conquest of the Planet of the Apes,Justen Peplaw,12/18/1972,Non-Fiction,758527237-5,Voonte,Sotho,3253,13,1.2,890.24
+137,The Pacific,Alejandrina Awdry,3/23/2005,Non-Fiction,926136198-6,Devcast,Armenian,5318,7,3.1,196.18
+138,New Waterford Girl,Etti Beadnell,10/15/1969,Science Fiction,459808306-9,Flashset,Dzongkha,12,19,2.5,133.45
+139,Bird on a Wire,Rhianon Mackin,5/9/1995,Non-Fiction,927813665-4,Realblab,Aymara,6933,0,4.6,655.31
+140,"Bell for Adano, A (John Hersey's A Bell for Adano)",Malia Zanolli,5/3/1995,Mystery,962980050-0,Pixope,Maltese,3034,18,2.5,993.58
+141,Dead Time: Kala,Sullivan Mulheron,12/30/1964,Mystery,384148572-3,Skiptube,Ndebele,4433,18,4.5,269.15
+142,"Swan Princess, The",Vachel Panton,9/23/2020,Non-Fiction,160462462-0,Snaptags,Ndebele,5593,3,2.6,866.7
+143,Something to Talk About,Shandra Broschek,12/20/2005,Mystery,996024967-0,Tekfly,Hebrew,2219,7,1.8,817.98
+144,Don't Blink,Rois Dormon,3/4/1998,Non-Fiction,154770296-6,Yakitri,Kurdish,3129,12,4.3,305.02
+145,Forgetting Sarah Marshall,Dniren Lukacs,8/10/1934,Mystery,221828647-5,Jayo,Fijian,1322,3,2.4,495.35
+146,Portrait of Jennie,Rogers Gladtbach,10/30/1973,Science Fiction,054663047-2,Dynabox,Lithuanian,9416,19,2.2,361.09
+147,Chairman of the Board,Blayne Garroch,12/22/2011,Mystery,831487270-9,Tagfeed,Haitian Creole,2454,3,2.0,647.19
+148,Roadkill (a.k.a. Roadkill: Move or Die),Alphonse Felgat,5/16/1993,Fiction,774092749-X,Realbridge,Hindi,4299,8,2.3,461.8
+149,Fidel,Lyndsie Druce,5/28/1968,Non-Fiction,466274350-8,Thoughtbeat,Thai,2807,6,4.0,454.44
+150,Monster-in-Law,Wileen Milham,12/27/1969,Non-Fiction,875843714-2,Twitterworks,Chinese,8373,19,3.4,269.46
+151,"Slumber Party Massacre, The",Corena Kearey,11/15/2021,Fiction,459138473-X,Oba,Marathi,2577,5,3.6,65.9
+152,Out for Justice,Ebba Dudson,8/1/1914,Mystery,335936277-2,Avamm,Malay,3884,18,2.0,806.13
+153,"Idolmaker, The",Lester Barnes,7/27/1900,Non-Fiction,996353125-3,Trilith,Tajik,904,9,3.1,498.59
+154,Pop Redemption,Christoffer Muat,4/17/1931,Mystery,391345066-1,Lajo,French,3520,11,3.7,397.3
+155,Cheetah,Gaspar Klaussen,6/15/1939,Fiction,481506848-8,Yodo,French,4370,3,5.0,328.31
+156,"Monster X Strikes Back: Attack the G8 Summit, The (Girara no gyakushû: Tôya-ko Samitto kikiippatsu)",Noach Foukx,11/9/1969,Non-Fiction,798486361-X,Buzzshare,New Zealand Sign Language,6101,18,1.3,212.73
+157,Massacre Canyon,Riccardo Harcarse,1/26/1930,Science Fiction,102621019-4,Devpoint,Swahili,4412,6,4.1,853.12
+158,Iron & Silk,Leelah Stiff,2/9/1915,Mystery,802912452-X,Rhybox,Macedonian,3628,11,4.3,454.24
+159,My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud),Leroy Reolfi,10/4/1907,Fiction,936982935-0,Chatterpoint,Tetum,6472,10,1.8,142.28
+160,13 Beloved (13 game sayawng),Hendrika Hicken,9/12/1929,Romance,787353607-6,LiveZ,Somali,6088,5,3.8,663.99
+161,"Tsatsiki, Morsan och Polisen",Ursulina Thurlow,4/5/1903,Romance,966180835-X,Buzzbean,Greek,490,19,3.0,245.27
+162,Bachelor Night,Avery Stobbs,12/14/1986,Non-Fiction,104420352-8,Mybuzz,Kazakh,3387,17,3.2,605.52
+163,Good Hair,Wernher Gantlett,10/25/1939,Fiction,095558356-X,Yamia,English,7404,4,2.7,554.01
+164,Northern Lights,Lizette Gathwaite,8/1/1974,Romance,725511882-8,Feedspan,Gujarati,9363,19,3.7,464.29
+165,Phantasm II,Gaelan Syphas,6/8/1905,Mystery,273655029-3,Fatz,Yiddish,3645,9,3.5,298.0
+166,"Ah, Wilderness!",Josepha Deighton,12/10/1929,Mystery,842080071-6,Izio,Lao,9416,10,4.7,161.33
+167,Paul Williams Still Alive,Norrie Ferraresi,2/26/1938,Romance,032925265-8,Blogtag,Romanian,7499,2,3.2,955.74
+168,Mama,Edy Luetchford,1/27/1933,Non-Fiction,176355025-7,Yodel,Maltese,6664,17,2.4,823.64
+169,Crippled Masters (Tian can di que),Ines Thursby,2/6/2010,Fiction,749897002-3,Babbleopia,Malayalam,2226,9,4.2,199.56
+170,Dog Tags,Riobard Sothcott,2/10/1945,Non-Fiction,831907226-3,Jabberstorm,Montenegrin,3077,16,4.6,168.74
+171,Goodbye First Love,Skippy Ackhurst,11/23/1959,Mystery,509050267-6,Livefish,Hiri Motu,5499,7,4.3,507.8
+172,"Die Bademeister – Weiber, saufen, Leben retten",Lamond Rofe,3/29/1994,Fiction,550994810-8,Twinder,Norwegian,5781,7,1.8,151.31
+173,"Young Americans, The",Ambrosi Whipp,5/3/2017,Mystery,057899279-5,Voonder,Malayalam,1508,18,3.5,640.51
+174,Slaughterhouse-Five,Leda Pyner,7/19/1929,Fiction,983320494-5,Leenti,Hebrew,5621,7,4.6,941.63
+175,"Rink, The",Selene Bathowe,2/20/1914,Mystery,090573245-6,Shufflebeat,Tok Pisin,1856,4,4.2,127.25
+176,Senotaji,Pooh Bacher,11/27/1973,Non-Fiction,112315640-9,Photofeed,Quechua,8734,14,2.6,251.38
+177,Ida,Roseline Fonzone,1/21/1950,Science Fiction,887959099-5,Skyba,Irish Gaelic,7915,12,1.6,817.05
+178,Virginia's Run,Anastasia Greenlies,1/14/1930,Mystery,998872664-3,Yodel,Tajik,7809,5,3.8,396.18
+179,"Secret Life of Words, The",Parrnell MacTague,10/4/1969,Fiction,117569592-0,JumpXS,Nepali,9854,0,3.7,397.7
+180,Pretty in Pink,Alphonso Creswell,4/22/1951,Mystery,472118193-0,Gigazoom,Telugu,9031,5,1.9,882.37
+181,Enlighten Up!,Kalle Hardie,1/26/1935,Fiction,655330016-X,Kare,Assamese,5303,7,3.1,515.22
+182,Pirates of the Caribbean: Dead Man's Chest,Benedick Brownsworth,11/22/2002,Non-Fiction,559466184-0,Meetz,Somali,8749,6,4.5,716.14
+183,Boy,Wilton Giovannacci,6/15/1989,Fiction,581985017-3,Roodel,Kurdish,4064,14,2.1,440.26
+184,Naked Harbour (Vuosaari),Abbe Houldey,7/9/2016,Non-Fiction,306210306-X,Vitz,Kannada,6498,11,4.6,151.69
+185,Heat and Dust,Gilberte Gooding,4/28/1924,Non-Fiction,603521740-0,Thoughtworks,Afrikaans,5279,19,1.5,881.35
+186,"Patsy, The",Fran Marte,9/6/2000,Fiction,853302851-2,Jabbersphere,Japanese,8698,10,4.9,852.9
+187,K-PAX,Dorisa Kelsall,9/2/1968,Non-Fiction,306695937-6,Dabfeed,Punjabi,6349,19,1.6,958.62
+188,Shirin,Gwenette Baitson,2/11/1901,Non-Fiction,786091901-X,Edgeify,Bislama,9417,8,2.1,326.23
+189,"Item, The",Fawnia Mainston,2/10/1970,Non-Fiction,573552459-3,Janyx,Albanian,8266,12,3.5,326.99
+190,Marvin's Room,Nariko Ondracek,12/22/1922,Fiction,357003091-1,Skimia,Gagauz,5539,16,3.2,901.99
+191,Freaky Friday,Shea Grisedale,11/4/1944,Mystery,520022412-8,Jabbersphere,Danish,540,16,3.0,926.28
+192,Times and Winds (Bes vakit),Chicky Gaspar,7/31/1947,Fiction,557110466-X,Mymm,Japanese,4714,13,4.6,416.68
+193,Dynamite Girl (Dynamiittityttö),Humphrey Rebeiro,6/26/1905,Romance,088189660-8,Eare,Hebrew,471,12,2.5,770.15
+194,Vincent Wants to Sea (Vincent will meer),Hinda Hughlock,4/19/1929,Mystery,339707856-3,Thoughtmix,Filipino,2913,7,2.8,968.81
+195,Blood Trails ,Erasmus Krzyzowski,7/29/1915,Fiction,413691031-2,Ooba,Māori,6735,16,2.1,501.35
+196,Evenings on a Farm near Dikanka,Taddeusz Messingham,12/23/1924,Non-Fiction,119852682-3,Skyba,Azeri,3463,1,2.8,297.88
+197,Buckskin Frontier,Cordi ducarme,4/10/2013,Mystery,454369184-9,Meedoo,Burmese,7495,14,1.7,60.54
+198,"Yards, The",Aveline Jouen,5/9/1941,Mystery,171806176-5,Browsetype,Montenegrin,8141,16,1.0,999.41
+199,Series 7: The Contenders,Anstice Jacquemard,3/14/1937,Mystery,220542385-1,Vipe,German,6175,16,2.1,294.15
+200,Extreme Movie,Atlanta Wilden,11/7/1946,Romance,540981078-3,Avaveo,Czech,143,13,1.1,378.92
+201,"Best of Times, The (Mei li shi guang)",Silas Ithell,9/18/2001,Non-Fiction,066130559-7,Realfire,New Zealand Sign Language,3696,8,2.7,945.4
+202,Jolene,Efren Greenwood,11/22/1910,Science Fiction,881487870-6,Quire,Irish Gaelic,5542,4,3.9,888.11
+203,Summer Stock,Marilyn Brum,10/8/1964,Science Fiction,405639836-4,Snaptags,Arabic,119,2,3.2,544.39
+204,Broadway Danny Rose,Kelsey Ilyushkin,8/27/1925,Fiction,105003155-5,Trilia,Haitian Creole,6694,13,2.6,505.37
+205,"Return of the Vampire, The",Hakeem Shelmerdine,6/19/1926,Mystery,872452331-3,Yotz,Pashto,7052,1,2.5,843.32
+206,"Magdalene Sisters, The",Viviyan Paintain,4/11/1976,Romance,791475719-5,Shuffletag,Bengali,1151,13,2.2,627.6
+207,"Little Foxes, The",Asa Baroc,6/2/1936,Science Fiction,124425877-6,Lajo,Māori,3747,8,3.7,991.59
+208,Shanghai Noon,Marven Page,7/29/1931,Romance,660992511-9,Avamba,Bulgarian,2946,18,3.6,29.43
+209,Time (Shi gan),Kevyn Racine,12/22/1922,Non-Fiction,398360117-0,Voolia,New Zealand Sign Language,1868,4,1.1,808.76
+210,Tokyo Story (Tôkyô monogatari),Delainey Cargenven,10/11/1920,Non-Fiction,023736253-8,Skibox,Hebrew,2172,9,3.0,831.83
+211,There's Something Wrong with Aunt Diane,Lucky Bodycombe,5/1/1965,Fiction,718703032-0,Zoozzy,Sotho,6380,16,3.5,139.67
+212,"Perils of Pauline, The",Ambrosi Juanico,5/7/1915,Non-Fiction,552819686-8,Dynabox,Japanese,4386,14,1.4,258.07
+213,Young Guns,Lucita Bowshire,6/11/1902,Mystery,020879567-7,Demizz,Lithuanian,4059,20,4.3,899.66
+214,The Sign of Four: Sherlock Holmes' Greatest Case,Magdaia Vanes,11/9/1975,Mystery,935358032-3,Flipstorm,Croatian,5476,10,3.1,223.43
+215,Visitor Q (Bizita Q),Nappy Jaycocks,7/19/1970,Romance,516437578-8,Eazzy,Dari,1071,15,2.3,85.35
+216,Weight of the Nation,Mohammed Benting,11/22/1996,Mystery,139447730-9,Yacero,Dzongkha,3195,1,2.0,801.92
+217,Loser,Collie Cheltnam,3/13/1933,Romance,083489600-1,Thoughtmix,Punjabi,4,6,3.5,612.87
+218,Possession,Jaimie Belliss,5/22/2001,Fiction,458864091-7,Thoughtstorm,Albanian,8076,1,1.2,401.56
+219,Rampage,Cindi Matic,7/21/1928,Science Fiction,283070758-3,Izio,Maltese,2102,7,2.8,326.96
+220,La Bandera,Rebbecca Pettett,12/11/1911,Science Fiction,838067154-6,Linkbridge,Dhivehi,9690,17,4.7,251.52
+221,The Invisible Boy,Cordy Revie,3/10/1964,Fiction,228919644-4,Fivebridge,Norwegian,8364,4,1.2,772.18
+222,1492: Conquest of Paradise,Demetria Oldfield,5/14/1995,Fiction,334673671-7,Buzzshare,Azeri,5106,2,3.9,725.8
+223,Cesar & Rosalie (César et Rosalie),Livvyy Trubshaw,2/23/1951,Romance,318946860-5,Eadel,Aymara,5862,5,3.1,301.51
+224,Red Line 7000,Karena Dowyer,4/13/1907,Fiction,620304522-5,Gabtune,Mongolian,2663,18,5.0,352.73
+225,Stateside,Nicola Skipper,1/23/1926,Romance,118800904-4,Oba,Maltese,3334,18,3.0,332.27
+226,Sailor of the King,Grant Chadwen,1/16/1944,Science Fiction,520584418-3,Linkbuzz,Māori,6773,14,2.4,641.98
+227,"Fantastic Fear of Everything, A",Von Verdie,1/13/1935,Science Fiction,779904104-8,Skimia,Montenegrin,1200,7,2.9,515.38
+228,"Exorcist, The",Grady Mandry,1/25/1998,Non-Fiction,961989616-5,Npath,Icelandic,8818,3,1.1,707.34
+229,Pitfall,Kissie Beeck,11/28/1986,Science Fiction,334031761-5,Jabbersphere,Korean,5435,7,2.9,544.4
+230,"Fearless Hyena, The (Xiao quan guai zhao)",Adeline Brookes,5/6/2006,Romance,657281897-7,Devbug,Polish,6635,10,4.0,193.71
+231,"Trial, The (Procès, Le)",Kev Sowte,7/2/2021,Non-Fiction,736827144-3,Aivee,Icelandic,4159,16,3.0,293.79
+232,"Browning Version, The",Delaney Rulton,3/8/1904,Fiction,904717071-7,Quimm,Croatian,3822,2,1.6,966.92
+233,Straw Dogs,Annadiana Darinton,8/28/1949,Science Fiction,482389554-1,Skiba,Aymara,2141,20,2.4,138.42
+234,Parked,Stormi Van der Hoeven,6/23/1943,Mystery,368667648-6,Quatz,Luxembourgish,4648,20,2.5,34.43
+235,Gordy,Armin Nazer,11/30/1919,Science Fiction,874064508-8,Edgetag,Hebrew,1883,15,1.1,427.09
+236,Staying Together,Horten Finey,5/27/1928,Mystery,742878172-8,Meevee,Finnish,2537,10,2.5,522.85
+237,Uranus,Tilda Avey,1/6/1926,Fiction,114592587-1,Jazzy,Mongolian,3197,1,4.4,855.12
+238,Night Passage,Sandra Denyukin,4/27/1972,Non-Fiction,558453592-3,Vidoo,Malayalam,9547,18,1.4,492.7
+239,"Real McCoy, The",Agatha Brearton,8/30/2009,Mystery,271793189-9,Wikizz,Gujarati,2833,7,1.8,436.45
+240,"Nights of Cabiria (Notti di Cabiria, Le)",Mirella Tollett,8/13/1984,Science Fiction,813725211-8,Trudeo,Punjabi,6896,15,1.9,117.28
+241,Titanic,Lorne Bozworth,1/10/1978,Science Fiction,335139625-2,Jatri,Norwegian,9695,15,3.6,559.98
+242,God's Country,Vannie Maben,12/25/1996,Romance,935826427-6,Photofeed,Catalan,6808,13,4.6,560.59
+243,The Hound of the Baskervilles,Ignacio Hanselman,11/21/1990,Science Fiction,244648717-3,Kimia,New Zealand Sign Language,9367,11,4.1,145.58
+244,King Kong,Quinn Darville,11/7/1937,Science Fiction,229898883-8,Mydeo,Czech,7452,8,4.5,168.61
+245,King Solomon's Mines,Alard Clingan,9/2/2003,Mystery,027158983-3,Fivespan,Norwegian,2297,7,1.2,461.13
+246,Policeman (Ha-shoter),Stephanus Halligan,5/19/1979,Mystery,233841005-X,Buzzbean,Thai,7625,8,4.1,645.06
+247,Cameraman: The Life and Work of Jack Cardiff,Wylie Chisnall,9/21/1990,Science Fiction,069223703-8,Aivee,Telugu,9363,15,5.0,147.19
+248,Thunder Soul,Orton Eddisforth,7/3/1962,Fiction,953094871-9,Photobug,Punjabi,1977,20,1.9,252.99
+249,"Man Who Knew Too Much, The",Pall Faulo,6/28/1997,Romance,021351721-3,Shuffledrive,Tamil,4704,15,1.1,141.82
+250,Stolen,Catharine Bunn,3/31/2003,Science Fiction,207424158-5,Zava,Tamil,2745,17,2.6,93.79
+251,"Invisible Sign, An",Meryl Yard,5/21/1980,Romance,827907358-2,Quatz,West Frisian,7876,11,1.9,876.38
+252,Reunion,Wynny Balstone,12/14/1995,Science Fiction,290888425-9,Brainsphere,Fijian,6083,12,2.0,547.12
+253,Never Forever,Godfry Adnam,5/30/1971,Science Fiction,028597381-9,Flashspan,Telugu,470,6,1.2,19.84
+254,Santa Buddies,Helene Verlander,10/13/1986,Mystery,644988907-1,Jaxspan,Bislama,5922,10,4.4,651.42
+255,Love Walked In,Stern Packer,5/14/2002,Romance,293598066-2,Brightbean,Georgian,8273,0,3.8,260.74
+256,"New One-Armed Swordsman, The (Xin du bi dao)",Jodie Durber,7/9/1966,Non-Fiction,152651702-7,Flipopia,Dzongkha,3873,18,3.2,767.58
+257,Prince of the City,Courtenay Beardshall,1/18/1940,Fiction,633117269-6,Trupe,West Frisian,7672,8,1.2,191.29
+258,"Lady of Chance, A",Tommy Petley,8/7/1967,Mystery,006307844-9,Oozz,Marathi,2899,7,3.5,363.23
+259,976-EVIL II,Shermie Sturmey,1/30/1945,Non-Fiction,156043537-2,Twinte,Yiddish,1210,4,4.2,18.84
+260,Break Up,Annaliese Della,10/10/2022,Non-Fiction,348869702-9,Pixoboo,Latvian,3302,6,2.5,768.24
+261,Tusk,Car Bordes,6/18/2008,Science Fiction,625505304-0,Quatz,Malayalam,6696,5,4.3,638.0
+262,"Dirty Dozen: Next Mission, The",Luce Vasyatkin,1/11/1912,Non-Fiction,269438757-8,Leexo,Malayalam,897,20,3.7,571.57
+263,Branded,Keefer MacMeekan,3/20/1932,Fiction,492679664-3,Lazz,Hiri Motu,7797,8,3.6,956.36
+264,Storm Rider,Emmet Bezant,11/28/1902,Mystery,874750169-3,Yotz,Aymara,6769,13,2.2,465.73
+265,Howling IV: The Original Nightmare,Essy Penkman,2/14/1957,Romance,641992501-0,Jamia,Quechua,6852,1,1.1,428.52
+266,Printed Rainbow,Fina Radwell,3/27/1990,Romance,902281544-7,Vitz,Finnish,4083,9,4.7,151.97
+267,Antitrust,Shepherd Dutt,2/22/1984,Science Fiction,400058770-6,Pixoboo,Macedonian,8647,6,2.0,717.6
+268,Love,Jeannette Pabelik,7/30/1988,Science Fiction,237038554-5,Eabox,Amharic,955,16,2.6,273.47
+269,Scorcher,Bradney Reymers,9/5/1937,Fiction,735644937-4,InnoZ,Sotho,9823,20,2.9,82.34
+270,Arrowsmith,Shae Utton,8/5/1914,Science Fiction,995912789-3,Demimbu,Swati,6733,10,4.4,319.92
+271,Russendisko,Ange Addicote,4/5/1956,Science Fiction,444206817-8,Tagchat,Tswana,2676,10,1.3,519.35
+272,Interiors,Colin Yoell,5/24/1946,Mystery,984837603-8,Buzzdog,Persian,5216,20,4.6,376.71
+273,Ballplayer: Pelotero,Sheryl Gathercoal,2/6/1931,Non-Fiction,111799595-X,Thoughtmix,Haitian Creole,6557,12,4.9,972.32
+274,Happy Times (Xingfu shiguang),Cecily Valde,11/23/1900,Romance,402841022-3,Tagpad,Afrikaans,6484,16,3.2,374.44
+275,Betsy's Wedding,Ervin Sidney,8/21/1954,Mystery,761950954-2,Katz,Papiamento,6846,10,4.0,662.81
+276,Resistance,Efren Pilgram,3/1/1978,Non-Fiction,190147465-8,Innojam,French,5815,1,4.4,773.44
+277,Frankie and Johnny,Clarisse Gatchel,8/2/1922,Fiction,564121729-8,Avamm,English,416,0,1.7,287.52
+278,Empire Falls,Heywood Leate,12/21/1937,Mystery,934732776-X,Yata,Yiddish,7004,19,4.1,347.34
+279,Dungeons & Dragons,Tilly Flagg,10/26/1996,Non-Fiction,193746502-0,Voonix,Bislama,1303,5,2.2,123.47
+280,Housekeeping,Wallache Spilisy,4/14/1972,Non-Fiction,249440957-8,Cogidoo,Finnish,5535,5,4.2,847.97
+281,Creature,Loralie Danzey,10/28/1963,Non-Fiction,925285404-5,Thoughtbridge,German,3884,12,1.5,932.62
+282,My Mother (Ma mère),Brand Carlos,10/19/2021,Non-Fiction,561235103-8,Devshare,Haitian Creole,3182,19,3.1,82.97
+283,Me and Orson Welles,Eada Schmuhl,8/9/2001,Mystery,171591829-0,Browseblab,Georgian,6248,11,3.9,614.26
+284,Cats & Dogs,Chaim Gilcriest,10/14/1983,Mystery,320104806-2,Kwilith,Armenian,9737,7,4.8,684.68
+285,"Good Marriage, A (Beau mariage, Le)",Hillyer Bellhanger,7/8/1931,Romance,954478027-0,Plajo,Indonesian,1567,19,4.1,797.0
+286,When Animals Dream (Når dyrene drømmer),Addie Brooksbank,6/13/1928,Science Fiction,146225636-8,Voomm,Thai,3550,15,1.7,855.13
+287,The Violent Enemy,Helsa Cockshot,12/6/2010,Romance,116772583-2,Lazz,Hebrew,1444,14,3.4,182.43
+288,Sex and Lucia (Lucía y el sexo),Merralee Chevolleau,4/16/1968,Fiction,108394924-1,Brainverse,Hiri Motu,782,19,5.0,899.55
+289,Devils on the Doorstep (Guizi lai le),Sara-ann Falconbridge,6/19/1923,Romance,246198083-7,Tazz,Persian,4327,13,3.8,550.19
+290,Bronson,Elysia Gutridge,8/31/1937,Mystery,663631822-8,Skyndu,Catalan,1555,12,3.5,428.64
+291,Service (Serbis),Carlota Wrack,10/9/1921,Mystery,031895555-5,Yodel,Gujarati,3930,13,1.3,641.22
+292,MacArthur,Gayler Snugg,7/15/1988,Romance,281495012-6,Jamia,Arabic,2489,2,3.0,604.98
+293,Neverland,Seward Tieraney,12/8/1945,Science Fiction,006993459-2,Twimbo,Albanian,2277,19,4.3,236.44
+294,Moon Zero Two,Kendal Pesticcio,9/29/1919,Fiction,960415920-8,Quinu,Lao,3711,18,1.3,848.31
+295,Om Shanti Om,Amelia Pedican,7/4/2006,Mystery,136049655-6,Feednation,Somali,6229,8,2.8,870.09
+296,Last Ride,Debbi Clacson,2/7/1922,Mystery,393159239-1,Photofeed,German,8942,19,2.3,779.04
+297,42,Salli Barbera,6/24/1967,Science Fiction,496408182-6,Npath,Montenegrin,6557,15,1.0,148.59
+298,"Story of the Late Chrysanthemums, The (Zangiku monogatari)",Sutherlan MacKnight,4/15/1933,Science Fiction,690989483-9,Oodoo,Croatian,819,6,4.0,846.68
+299,Impure Thoughts,Murray Tayloe,6/14/1957,Science Fiction,772869597-5,InnoZ,Afrikaans,7832,5,2.5,541.99
+300,Last of the Dogmen,Elysia Townes,10/5/1990,Romance,972079639-1,Yoveo,Oriya,643,2,2.8,191.78
+301,Après lui,Ayn Joules,5/4/1923,Romance,006282158-X,Shuffledrive,Macedonian,9637,10,3.0,750.6
+302,"Crime of Monsieur Lange, The (Le crime de Monsieur Lange)",Clevie Ert,3/17/1993,Non-Fiction,741186890-6,Pixope,Danish,937,13,2.3,583.19
+303,Rugrats in Paris: The Movie,Misha Heggie,5/12/1962,Romance,599276763-0,Zava,Swahili,4703,19,1.6,821.52
+304,Beer Wars,Wallas Camilleri,7/1/1989,Science Fiction,049233432-3,Mydeo,Marathi,3189,9,1.2,35.81
+305,Head On,Fraser Showering,12/16/2003,Romance,232128628-8,Oyondu,Maltese,1338,5,3.3,47.8
+306,Doug's 1st Movie,Britni Fowkes,7/15/2021,Non-Fiction,817776299-0,Tagpad,Italian,3671,0,4.5,664.64
+307,Trembling Before G-d,Maxine Duigan,3/25/2004,Mystery,529098918-8,Skibox,Georgian,1060,14,2.6,567.28
+308,"Curve, The (Dead Man's Curve)",Georgette Levesque,5/28/2016,Non-Fiction,002214937-6,Ntag,New Zealand Sign Language,6711,12,1.3,480.19
+309,Lonely Street,Carrol Klimushev,5/29/1927,Science Fiction,131430242-6,InnoZ,Kannada,9404,19,2.4,408.41
+310,Legend of the Guardians: The Owls of Ga'Hoole,Lesley Tregien,2/19/1968,Science Fiction,342828820-3,Gigabox,Dari,3540,19,1.2,164.81
+311,"Reckoning, The",Braden Blencowe,3/13/1903,Science Fiction,203732357-3,Skajo,Catalan,2211,13,3.2,581.69
+312,Food Stamped,Rebbecca Wilden,12/11/1952,Romance,313752250-1,Demizz,Latvian,3561,2,3.7,971.74
+313,Street Without End (Kagirinaki hodo),Catlee Leith-Harvey,12/7/1980,Mystery,129127003-5,Kanoodle,Belarusian,3059,5,2.7,29.12
+314,Model Shop,Cathlene Quesne,11/13/1938,Science Fiction,334916885-X,Yata,Spanish,7238,10,4.0,704.48
+315,Eddie Izzard: Circle,Sterne Everill,6/21/1909,Mystery,634654605-8,Meembee,Punjabi,3105,15,3.1,112.22
+316,"Wonderful Ice Cream Suit, The",Yank Suff,7/28/1981,Fiction,973423602-4,Tekfly,Punjabi,6189,11,1.5,810.81
+317,Strictly Sexual,Spenser Fahy,7/24/1900,Mystery,285476329-7,Meembee,Tamil,5913,16,1.0,240.12
+318,Rapid Fire,Moss Jakoviljevic,2/17/1923,Science Fiction,077611853-6,Flipstorm,Luxembourgish,6692,15,3.5,336.53
+319,Pacific Rim,Abdel Parmer,7/22/1963,Non-Fiction,948165709-4,Pixope,Lao,6732,6,1.5,233.03
+320,White Zombie,Alexa Simmance,8/31/1902,Science Fiction,103644089-3,Flashset,Portuguese,8239,17,2.5,653.15
+321,Chris Rock: Bring the Pain,Towny Merritt,4/5/1949,Fiction,422896303-X,Trudeo,Greek,3711,8,1.1,94.42
+322,We're Not Dressing,Lorrie Wilford,11/8/1948,Mystery,435924125-9,Voonte,Dzongkha,2753,1,1.2,76.06
+323,"Charge of the Light Brigade, The",Shepard Mantram,11/10/1913,Romance,204869436-5,Kanoodle,Portuguese,9154,6,3.6,663.08
+324,Arsenal,Anthe Babcock,2/2/1950,Non-Fiction,287334825-9,Camimbo,Macedonian,9640,12,4.5,253.36
+325,Quatermass and the Pit,Barnett Ashburner,7/25/1979,Mystery,291824869-X,Yadel,Maltese,1258,6,3.2,870.68
+326,"Erotic Man, The",Stearn Ferrarello,10/10/1938,Mystery,687687529-6,Cogibox,Haitian Creole,2483,10,2.6,398.69
+327,"Bullet for Joey, A",Allegra Privost,1/30/1930,Mystery,166739050-3,Omba,Haitian Creole,1348,15,2.5,676.92
+328,Thunder Soul,Fletcher Reveland,1/23/2010,Non-Fiction,372419611-3,InnoZ,Ndebele,9045,18,4.8,388.01
+329,Kull the Conqueror,Oran Kliement,3/26/1905,Mystery,896500439-X,Yakitri,Dari,9145,6,3.4,342.74
+330,alaskaLand,Lanie Durno,9/21/1922,Non-Fiction,073068238-2,Youopia,Tok Pisin,4121,20,4.2,548.71
+331,Love and Other Catastrophes,Rowe Samuels,3/6/1954,Science Fiction,969133577-8,Dynazzy,Portuguese,2802,11,3.7,659.23
+332,Precious Find,Marie-ann Rumin,3/14/1904,Fiction,930029107-6,Pixope,Malay,8827,5,3.6,115.55
+333,Delta Farce,Ladonna Elintune,11/27/1974,Non-Fiction,352033005-9,Youfeed,Māori,8618,20,2.2,384.12
+334,"Football Factory, The",Igor Garr,7/17/2011,Mystery,078299111-4,Ailane,Dari,3976,9,1.9,379.47
+335,Going Straight,Rorke Bygrove,5/29/1916,Romance,948056265-0,Oloo,Hiri Motu,9924,15,1.5,634.7
+336,Chris Rock: Bring the Pain,Willie Behrendsen,5/28/1934,Mystery,350926184-4,Skinder,Greek,5860,14,2.0,629.12
+337,Indecent Proposal,Livia Ellwand,3/29/1922,Science Fiction,692523094-X,Leenti,Khmer,6857,17,1.1,414.71
+338,Confidential Report,Yul Gurry,8/9/2020,Science Fiction,350217968-9,Youspan,Gujarati,6307,20,3.4,550.85
+339,Rosewater,Trude Smoth,8/24/1923,Science Fiction,458092188-7,Buzzdog,Irish Gaelic,1292,11,3.0,71.22
+340,"Nomi Song, The",Mollie MacKissack,8/2/1970,Fiction,905126082-2,Browsedrive,Kashmiri,8668,16,2.1,794.77
+341,Friendly Persuasion,Pedro Curneen,12/22/2005,Mystery,552158189-8,JumpXS,Georgian,433,9,4.4,643.19
+342,Wide Awake,Thia Silverlock,10/22/2022,Fiction,731838748-0,Fivebridge,New Zealand Sign Language,4444,9,1.3,177.56
+343,Texas Carnival,Wynn Castrillo,3/30/1954,Fiction,282423113-0,Zoomcast,Kazakh,4023,15,3.0,306.02
+344,Wish You Were Here,Gregor Coll,8/16/1938,Fiction,860664975-9,Meevee,Quechua,5619,9,4.0,732.82
+345,Kill Your Darlings,Myrta Halburton,3/25/1971,Fiction,063299747-8,InnoZ,Luxembourgish,6343,11,4.1,451.93
+346,My Name Is Bruce,Shir Dorant,10/18/1946,Fiction,541824062-5,Skippad,Icelandic,2401,19,1.8,722.28
+347,Snow Queen,Devy McGahy,10/25/2012,Fiction,039625767-4,Centidel,Chinese,8280,12,3.3,907.3
+348,"Beverly Hillbillies, The",Nolana Leathard,5/14/1986,Mystery,975045600-9,Kwimbee,Greek,1707,16,2.5,18.84
+349,Power,Sebastiano Gingell,11/9/1983,Mystery,217106707-1,Blogpad,Georgian,8390,15,1.8,208.0
+350,Young Tom Edison,Rock Ranscomb,10/16/1947,Non-Fiction,134249482-2,Tagchat,German,752,9,2.1,91.36
+351,Middle of Nowhere,Lissi Raspin,1/6/1914,Romance,060159957-8,Meejo,English,5579,12,4.2,330.68
+352,Cross My Heart,Gibbie Elt,2/3/1948,Science Fiction,371638618-9,Twitterbeat,Tswana,4757,18,4.6,341.05
+353,Radio Free Albemuth,Quinta Mabley,8/6/1958,Science Fiction,941712098-0,Flipbug,Bulgarian,1175,2,1.3,660.67
+354,Perkele! Kuvia Suomesta,Tabbie Shurrock,10/31/1970,Non-Fiction,407232861-8,Riffwire,Maltese,5906,5,3.9,739.29
+355,Thieves by Law (Ganavim Ba Hok),Ruggiero Bedbury,10/12/1902,Non-Fiction,101110322-2,Oyonder,Irish Gaelic,5080,4,2.9,842.67
+356,Jurassic Park III,Feodora Callam,2/19/1956,Romance,526908892-4,Yozio,Dhivehi,97,20,2.9,413.53
+357,Slaying the Badger,Gerome Wearn,5/9/1968,Romance,895014849-8,Tazzy,Kazakh,1700,4,3.2,432.95
+358,"Tiger's Tail, The",Jerrome Congreve,6/19/1956,Mystery,730828028-4,Photolist,Kazakh,1109,18,1.6,895.92
+359,Osmosis (Osmose),Tedda Daviot,12/25/1933,Mystery,560033832-5,Photobug,Finnish,7343,20,4.2,45.5
+360,Last Action Hero,Esdras O'Scandall,11/13/1959,Romance,986475178-6,Linktype,Dari,3127,7,1.5,820.31
+361,Clint Eastwood: Out of the Shadows,Siana Normabell,12/21/1930,Mystery,326046505-7,Digitube,Zulu,6144,2,2.8,869.38
+362,"See You in Hell, My Darling (Tha se do stin Kolasi, agapi mou)",Shani Dorcey,11/1/1998,Romance,589940723-9,Mudo,Polish,8688,17,4.5,491.67
+363,"Great Passage, The (Fune wo amu)",Zonnya Bulpitt,5/1/1947,Mystery,793599551-6,Gigaclub,Bislama,190,0,1.1,255.8
+364,"Time Machine, The",Huntington Warrilow,6/15/1921,Non-Fiction,948162743-8,Centimia,Icelandic,6009,1,3.7,799.94
+365,"Power of Nightmares, The: The Rise of the Politics of Fear",Darius Skitch,1/5/1953,Non-Fiction,898530729-0,Centizu,Georgian,5299,7,4.4,10.16
+366,Trench Road (Juoksuhaudantie),Derby Strangwood,5/29/1952,Non-Fiction,349238756-X,Innotype,Bulgarian,4482,19,1.0,647.83
+367,Whoopi Goldberg Presents Moms Mabley,Karyn Missington,2/13/1915,Mystery,657973290-3,Youspan,Papiamento,8930,15,4.9,432.59
+368,State Affairs (Une affaire d'état),Ruthi Morby,9/10/2022,Romance,197643685-0,Wikizz,Assamese,5763,3,4.6,750.29
+369,"Story of Science, The",Charis Mailey,11/5/1914,Science Fiction,733832822-6,Vinte,Fijian,538,3,4.3,960.51
+370,Bride of the Monster,Evanne Lawn,9/3/2009,Romance,038326596-7,Skyba,Albanian,8643,7,4.3,401.68
+371,Made,Lyndy Cuphus,5/22/1953,Fiction,122699983-2,Cogibox,Dhivehi,2272,13,2.8,424.97
+372,The Lazarus Effect,Axel Spragg,6/24/1901,Mystery,998615955-5,Skilith,Danish,1688,11,4.4,883.59
+373,Bride of Boogedy,Raye Chrstine,12/26/1935,Science Fiction,796843826-8,Yodel,Pashto,2257,4,1.8,669.62
+374,"House of Rothschild, The",Margarette Guile,12/16/1900,Mystery,311732011-3,Thoughtmix,Korean,5111,12,1.7,872.19
+375,Smashing Time,Leisha Andreini,12/27/1947,Non-Fiction,764903672-3,Blogtags,Portuguese,6912,15,4.5,133.69
+376,Quarantine 2: Terminal,Jamison Damrell,4/25/1933,Romance,531626645-5,Quatz,Icelandic,6928,5,3.6,822.33
+377,Night of the Living Dead 3D,Camile Trazzi,3/8/1922,Non-Fiction,494772238-X,Realcube,Indonesian,7253,14,3.9,536.29
+378,My Boy,Marco Edgley,3/5/2012,Non-Fiction,666049440-5,Brightdog,Indonesian,7218,15,1.8,916.23
+379,"Kingdom II, The (Riget II)",Mohammed Rocca,11/16/1930,Non-Fiction,101504916-8,Zoomlounge,Zulu,2071,1,4.2,327.25
+380,"Strada, La",Kalil Lothlorien,10/28/1983,Romance,757886314-2,Twitterbeat,Nepali,6914,11,5.0,273.05
+381,Stars Above,Aldridge Collyear,5/21/1991,Science Fiction,751507923-1,Ainyx,Pashto,1455,4,2.6,57.66
+382,White Palace,Claribel Petrashov,5/1/1970,Fiction,410515787-6,Agimba,Tswana,3809,4,3.2,447.53
+383,Flight Command,Boony Pennacci,11/2/2017,Science Fiction,213013111-5,Vidoo,Croatian,6252,7,4.6,740.91
+384,Foosball (Metegol),Skelly Giannassi,2/2/2003,Fiction,897990160-7,Yacero,Burmese,425,2,1.2,666.15
+385,"Silent World, The (Le monde du silence)",Gilberto Sandbach,3/1/2015,Romance,246787487-7,Yotz,Haitian Creole,9183,18,1.6,851.01
+386,Texas Terror,Willyt Dencs,12/11/1926,Non-Fiction,604432990-9,Jamia,Māori,9330,7,2.5,355.13
+387,Alien Contamination,Tanya Simmig,5/4/1932,Fiction,086063214-8,Zava,Zulu,5470,9,3.2,183.95
+388,"Boot, Das (Boat, The)",Christa Lobe,7/27/1966,Science Fiction,473016012-6,Quatz,Malayalam,4446,20,1.3,23.21
+389,Photos in the City of Sylvia (Unas fotos en la ciudad de Sylvia),Vanya Paxforde,6/26/1961,Science Fiction,321583522-3,Edgeclub,Japanese,4691,13,2.9,911.78
+390,Welcome to New York,Tomi Briand,12/16/2007,Science Fiction,342406349-5,Mydeo,Swedish,6657,5,3.2,694.99
+391,Love and Other Troubles,Agnella Fathers,10/24/1946,Mystery,607512169-2,Wikibox,Polish,6427,20,4.7,297.17
+392,Jack Strong,Lynne Collingworth,4/24/1902,Non-Fiction,265772523-6,Photobug,Tswana,1386,14,2.6,487.94
+393,Mannequin,Stesha Huckleby,2/12/1990,Fiction,809809991-1,Voomm,Irish Gaelic,6466,5,4.4,377.19
+394,Inside Daisy Clover,Adey McCalum,1/6/1925,Science Fiction,626167046-3,Yamia,Bislama,4279,10,2.9,60.31
+395,"Hollow Crown, The",Hinda Travers,1/11/2009,Fiction,918722566-2,Quatz,Luxembourgish,499,19,4.8,751.92
+396,Taxi!,Lyon Elford,3/1/1948,Mystery,656029225-8,Vinder,Latvian,2274,16,1.3,602.91
+397,In the Realms of the Unreal,Seward Braun,4/18/1916,Mystery,296715367-2,Yodoo,Tok Pisin,1946,7,3.3,103.37
+398,Whose Life Is It Anyway?,Axe Lauridsen,5/17/2017,Science Fiction,652427532-2,Shufflebeat,Somali,6505,1,3.7,776.3
+399,Shrooms,Clyve Sirrell,10/14/2000,Mystery,734078488-8,Gabcube,Swahili,2027,19,2.8,593.5
+400,Storyville,Shannen Loche,3/7/1929,Mystery,147177681-6,Skipfire,Belarusian,7468,13,5.0,636.45
+401,Conflagration (Enjô),Neddy Morten,12/28/1919,Fiction,836885063-0,Digitube,French,5179,14,1.1,894.78
+402,Hostage,Delmar Kenninghan,11/30/1919,Romance,448808413-3,Edgeclub,Tsonga,1098,5,2.1,149.21
+403,"Die, Monster, Die!",Elfie Bezemer,6/9/1996,Science Fiction,301919590-X,Quinu,Haitian Creole,5604,12,2.7,521.8
+404,The Heart Machine,Max Reggiani,12/26/1915,Romance,493495613-1,Yakidoo,Bengali,9426,11,3.9,730.73
+405,"White Rose, The (Weiße Rose, Die)",Stormi Maffioletti,9/4/1964,Science Fiction,049052058-8,Skalith,Croatian,9418,9,2.4,375.48
+406,"Good Mother, The",Olvan Ferroni,2/24/1927,Romance,843146092-X,Edgeify,Tok Pisin,3680,14,4.2,779.39
+407,Austin Powers in Goldmember,Trent Thurston,5/7/1993,Fiction,425793234-1,Photobug,Arabic,3182,7,2.3,919.81
+408,"Dirty Shame, A",Burl Barbery,3/29/1918,Mystery,635973237-8,Eire,Bosnian,5990,10,2.4,599.33
+409,WUSA,Tiebout Zecchinelli,3/5/1950,Science Fiction,356394271-4,Shufflester,French,6585,10,4.1,912.56
+410,Examined Life,Meridel Verling,9/25/1904,Romance,371293049-6,Twitterlist,Hebrew,1596,18,3.4,225.96
+411,"Spook Who Sat by the Door, The",Tanya Skyrme,11/26/1997,Fiction,937187115-6,Mydeo,English,1789,14,2.0,102.65
+412,So Long Letty,Flss Nyles,11/14/1949,Mystery,913596480-4,Jatri,Greek,9350,18,3.2,97.85
+413,Road House,Constantin Gritten,3/5/1916,Science Fiction,632154700-X,Dablist,Nepali,6452,12,3.3,438.53
+414,"Valet, The (La doublure)",Eldon Haslam,11/18/1971,Fiction,137003061-4,Trupe,New Zealand Sign Language,3482,10,3.2,245.98
+415,Stranger by the Lake (L'inconnu du lac),Laurene Grovier,6/20/1992,Science Fiction,661210804-5,Mynte,Assamese,1018,8,1.5,668.72
+416,The Fox and the Hound 2,Selma Randals,10/2/1913,Mystery,907495173-2,Babbleset,Armenian,8766,12,3.0,622.79
+417,Tetsuo II: Body Hammer,Linus Elkin,8/21/2000,Fiction,511434228-2,Thoughtworks,Swati,5034,12,4.1,893.47
+418,Mirrors,Felipe Dansken,3/20/1948,Romance,749592186-2,Gigazoom,Malayalam,9957,9,3.5,581.93
+419,Nina Frisk,Rutter Dallemore,4/30/1996,Mystery,159807187-4,Twitterbeat,Northern Sotho,6642,15,2.5,462.63
+420,Cleanflix,Enrico Conkling,9/11/1986,Fiction,662988503-1,Gabcube,Burmese,3245,12,2.2,590.29
+421,In Hell,Carrissa Vinsen,10/24/1933,Fiction,974168401-0,Kazio,Malagasy,1993,0,5.0,110.56
+422,Soapdish,Randi Gue,12/19/1986,Non-Fiction,728402241-8,Brightdog,Icelandic,5390,4,1.2,788.52
+423,Legend of the Boneknapper Dragon,Selinda Potteril,6/29/2006,Science Fiction,095486131-0,Skyvu,Irish Gaelic,4803,14,4.5,263.14
+424,Cool It,Vick Mutch,1/22/1972,Science Fiction,075776653-6,Eare,Sotho,9526,6,2.4,22.02
+425,Blind Massage (Tui na),Caesar Delap,11/24/1977,Mystery,047189640-3,Centizu,Hungarian,9787,19,1.6,395.19
+426,Hallelujah!,Alexandrina Riccardo,11/11/1968,Non-Fiction,839112601-3,Kwimbee,Marathi,8069,18,4.2,249.68
+427,Little Lord Fauntleroy,Lion Scripture,11/16/1903,Fiction,659345820-1,Devshare,Ndebele,694,12,2.2,769.02
+428,Babylon 5: The Legend of the Rangers: To Live and Die in Starlight,Orlan Grey,11/17/1960,Mystery,398458563-2,Dablist,Telugu,3440,10,4.8,197.17
+429,Parental Guidance,Rafa Call,10/4/1964,Fiction,635966596-4,Twimm,Afrikaans,4082,0,3.0,871.08
+430,Evenings on a Farm near Dikanka,Eolanda Piatkowski,8/3/2014,Romance,645861403-9,Meezzy,Portuguese,3610,3,3.2,677.57
+431,"Pornographer, The (Le pornographe)",Gerhardt Chevers,10/6/2018,Mystery,784396990-X,Devify,Malay,5668,19,4.8,520.25
+432,Whitecoats,Jayson Dedon,8/14/1990,Fiction,823450555-6,Fiveclub,Thai,7980,7,3.9,813.2
+433,Mr Hockey The Gordie Howe Story,Jennine MacGiolla,2/13/1954,Non-Fiction,315811863-7,Wikizz,Hebrew,2900,16,1.6,831.67
+434,"Tenth Man, The",Barris Steketee,4/18/1959,Mystery,555281018-X,Gigabox,Malay,636,9,3.1,947.01
+435,"Rendez-vous d'Anna, Les (Meetings of Anna, The)",Charmain Grinval,2/11/1976,Science Fiction,942797967-4,Zoomlounge,Gagauz,7610,9,2.7,657.67
+436,Tideland,Bradney Espinosa,9/17/2015,Fiction,785465928-1,Podcat,Chinese,6736,12,1.2,561.48
+437,Prisoner of Paradise,Hewe Schirach,6/18/1941,Fiction,625095447-3,Twinder,Lithuanian,4359,11,2.3,159.8
+438,Barbara,Flore Dericut,12/7/1968,Non-Fiction,493181293-7,Katz,Malayalam,4828,12,4.8,304.5
+439,Total Recall,Malissia Chaffer,7/5/2012,Fiction,195659791-3,Voonix,Telugu,4136,16,1.9,321.0
+440,Kings & Queen (Rois et reine),Westley Sherr,8/30/1927,Science Fiction,633647690-1,Trilith,Kashmiri,95,13,2.3,826.99
+441,How the West Was Fun,Cello Test,8/26/2005,Science Fiction,478433936-1,Jayo,Kazakh,2409,12,2.6,298.7
+442,And So It Is,Tessa Isles,1/4/2014,Romance,262534064-9,Vipe,Tswana,108,17,4.9,901.69
+443,Twilight Zone: The Movie,Beltran McCourt,3/31/1956,Romance,646662611-3,Photojam,Moldovan,5486,10,3.7,26.8
+444,"Gods Must Be Crazy II, The",Ailee Rennock,6/4/1955,Non-Fiction,098427401-4,Voonyx,Swedish,6653,17,3.8,224.47
+445,Peter Ibbetson,Merline Woodcock,8/18/1930,Romance,793268705-5,Plambee,Norwegian,6270,18,3.4,68.41
+446,Super Sucker,Vivi Maple,7/29/1976,Non-Fiction,280801788-X,Quinu,Korean,4321,2,3.2,868.41
+447,Donner Pass,Rozella Flook,8/9/1967,Romance,850325208-2,Blogtags,Pashto,7122,7,1.1,83.94
+448,Heart of a Lion,Costanza Briatt,11/25/1986,Mystery,569438349-4,Thoughtmix,Persian,281,15,4.8,814.94
+449,Afternoon Delight,Nonnah Cotsford,11/2/1988,Non-Fiction,592575063-2,Zoomzone,Kashmiri,8984,18,2.4,825.99
+450,Eerie Tales (Unheimliche Geschichten),Cacilia Toffanelli,12/19/1917,Mystery,078951893-7,Snaptags,Hebrew,8842,18,2.7,295.06
+451,Ernest Goes to School,Axe Ales0,3/17/2021,Mystery,572464236-0,Vimbo,Gagauz,4325,16,3.3,501.98
+452,Hot Tub Time Machine 2,Brice Natwick,10/9/1939,Romance,725897167-X,Katz,Swahili,7689,0,1.3,594.43
+453,Animal,Gui Baugham,7/11/1938,Fiction,696692681-7,Vinder,Thai,4866,5,1.2,918.67
+454,Away We Go,Cindi Fish,9/21/1983,Romance,591208265-2,Riffpedia,Bosnian,9331,5,1.8,363.88
+455,Hudson Hawk,Sandie Phaup,1/11/1965,Mystery,009514490-0,Jabbertype,Azeri,2455,1,4.1,328.51
+456,Sunday Bloody Sunday,Risa Ishak,3/24/1958,Non-Fiction,283038495-4,Feedmix,Sotho,321,20,4.3,289.52
+457,Prince of the Sun: The Great Adventure of Horus (Taiyou no ouji Horusu no daibouken),Babette Armsby,11/11/1980,Fiction,199889124-0,Twitterbeat,Hebrew,2940,2,2.7,381.17
+458,2-Headed Shark Attack,Theressa Blodget,9/28/1937,Romance,174865924-3,Rhynyx,Georgian,7888,17,4.7,164.38
+459,Sleuth,Teddie Narracott,10/22/1907,Mystery,287352424-3,Realcube,Bengali,499,8,1.1,513.14
+460,"Worthless, The (Arvottomat)",Valry Raymond,4/10/2019,Romance,073346017-8,Browseblab,Luxembourgish,5502,12,3.4,323.62
+461,Warren Oates: Across the Border,Carlyle Kemmons,10/9/1910,Non-Fiction,959573979-0,Feedspan,Japanese,8062,6,3.2,107.54
+462,Grown Ups 2,Hunfredo Godleman,8/23/1926,Non-Fiction,261911446-2,Feednation,Quechua,3622,7,2.4,595.16
+463,"Kids Are All Right, The",Garwood Ballaam,11/9/2002,Mystery,865197743-3,Topiczoom,Bislama,4202,1,4.0,290.5
+464,Katt Williams: Priceless: Afterlife,Whitman Belchamber,12/6/2013,Mystery,090818431-X,Agimba,Māori,4413,8,3.0,461.67
+465,The Secret Country: The First Australians Fight Back,Kiley Ambrogetti,3/2/2004,Fiction,739322908-0,Devpoint,Hiri Motu,7123,14,4.9,144.6
+466,Unfinished Song (Song for Marion),Dex Perritt,12/19/1953,Romance,086370248-1,Kwilith,Lao,1945,18,2.0,762.32
+467,Animated Motion: Part 5,Dave Delieu,12/26/1958,Fiction,451112562-7,Buzzdog,Dutch,585,6,4.1,788.98
+468,That Guy... Who Was in That Thing,Dale Buse,8/27/1939,Romance,613102604-1,Yacero,Hebrew,8775,1,2.9,804.3
+469,"Summer Wishes, Winter Dreams",Janette Hrycek,1/16/1960,Fiction,506256549-9,Oyoba,Sotho,376,1,2.7,450.45
+470,Islander,Jaimie Szreter,10/10/1926,Mystery,916282381-7,Zoozzy,Kyrgyz,322,11,3.5,382.7
+471,Love Field,Terencio Skunes,1/11/2011,Non-Fiction,767565769-1,Cogibox,Aymara,8238,8,2.3,838.89
+472,Light Sleeper,Jordan Debney,11/18/1988,Non-Fiction,302810186-6,Flipbug,Hiri Motu,9477,10,3.3,128.68
+473,"Billy Blazes, Esq.",Uriah Took,9/11/1998,Non-Fiction,133699069-4,Eayo,Kashmiri,2648,9,3.5,575.06
+474,"Good Night, and Good Luck.",Therese Malsher,3/14/1992,Non-Fiction,834472018-4,Youspan,Kyrgyz,1394,0,2.2,109.73
+475,Miami Connection,Douglas Klauber,9/27/1938,Mystery,503345056-5,Skinder,Romanian,8156,11,3.9,761.17
+476,Undertow (Contracorriente),Alecia Pundy,1/12/1943,Romance,712786761-5,Abatz,New Zealand Sign Language,7452,19,3.1,112.68
+477,Babyfever,Herby Battleson,10/13/1971,Fiction,578337825-9,Digitube,Bislama,8802,15,4.3,962.28
+478,Only Yesterday (Omohide poro poro),Kacy Caswall,9/6/1913,Romance,568863255-0,Avamm,Polish,3682,18,1.9,966.07
+479,Brigham Young,Birk Jahnisch,1/5/2018,Fiction,994015045-8,Meemm,Gujarati,905,12,1.5,673.4
+480,"Avventura, L' (Adventure, The)",Maddie Yter,2/12/2002,Romance,768371388-0,Skipfire,Tok Pisin,5790,3,5.0,155.59
+481,Duck Soup,Tully Dews,1/7/1958,Fiction,124441711-4,Riffpath,Polish,2335,14,4.2,969.11
+482,Lord of Tears,Morry Charrette,3/7/1977,Romance,833843130-3,Katz,Burmese,2381,1,1.4,156.18
+483,Sylvia Scarlett,Kirby Gell,7/24/2021,Science Fiction,631972778-0,Muxo,Macedonian,8402,0,2.3,842.92
+484,Mikey and Nicky,Sutherland Huburn,10/27/2022,Science Fiction,555642232-X,Quire,Yiddish,6307,11,4.7,273.64
+485,"Education of Little Tree, The",Carissa Tartt,12/13/2008,Fiction,789238524-X,Zava,Nepali,4296,2,2.3,804.73
+486,"Independent, The",Joycelin Duxbarry,8/22/1983,Fiction,436326414-4,Thoughtbridge,Macedonian,654,10,3.6,73.45
+487,Blazing Saddles,Kara-lynn Livingstone,12/23/1978,Romance,557817758-1,Rhyzio,New Zealand Sign Language,9422,10,3.1,159.95
+488,"Lady from Shanghai, The",Linnell Chevis,1/20/1945,Mystery,771338841-9,Mybuzz,Nepali,7239,10,4.6,1.82
+489,Pursued,Reuben Yesipov,8/26/1968,Non-Fiction,955734404-0,Realbuzz,Arabic,2127,19,3.1,124.29
+490,Berlin Express,Orelee Knapman,3/27/1946,Science Fiction,605785225-7,Flashspan,Telugu,8138,19,4.3,574.77
+491,Whistling in Brooklyn,Mignon Fundell,1/31/1904,Fiction,290765632-5,Leenti,Gagauz,8718,2,2.3,903.16
+492,"Hijack That Went South, The (Kaappari)",Edouard Kewish,10/26/1915,Mystery,857044629-2,Camimbo,Bengali,6493,9,3.0,666.98
+493,Lights Out,Prent Rustidge,5/29/1905,Romance,900747516-9,Linkbridge,Croatian,731,2,1.7,608.58
+494,"Seventh Seal, The (Sjunde inseglet, Det)",Bambie Radband,9/16/1917,Science Fiction,564914475-3,Tagfeed,Latvian,8887,11,1.7,120.94
+495,Stardust,Andy Barbey,11/1/2002,Fiction,211821193-7,Chatterpoint,Haitian Creole,7512,15,4.4,700.88
+496,"Taking of Power by Louis XIV, The (Prise de pouvoir par Louis XIV, La)",Garvy Willmont,9/23/1976,Non-Fiction,504694049-3,Realcube,Filipino,6696,18,4.9,191.74
+497,Simon of the Desert (Simón del desierto),Caritta Boutton,7/11/1935,Science Fiction,235930353-8,Tavu,Khmer,6279,13,3.2,491.87
+498,Lockdown,Debby Noke,6/2/1945,Non-Fiction,210149203-2,Flipbug,Gujarati,6711,13,2.0,885.32
+499,"Anniversary, The",Antonino Glascott,4/29/1948,Romance,280050946-5,Jabbercube,Spanish,7234,19,1.7,742.66
+500,Boots and Saddles,Sergei Fursland,4/2/1903,Romance,959923205-4,Eidel,Indonesian,2967,3,1.1,643.36
+501,Beloved/Friend (a.k.a. Amigo/Amado) (Amic/Amat),Lilly Duggen,11/13/1963,Non-Fiction,091312253-X,Twitterworks,Thai,5889,19,4.4,164.16
+502,"Conclave, The",Lynett Gheeorghie,10/3/1969,Non-Fiction,637780883-6,Skidoo,Norwegian,3388,3,2.6,147.34
+503,All About the Feathers (Por Las Plumas),Chlo Tyre,11/6/1953,Science Fiction,603442085-7,Edgeblab,Dutch,3406,17,4.8,434.79
+504,Centennial,Carry Edland,9/21/1905,Romance,435395441-5,Centidel,Ndebele,3518,10,2.5,850.88
+505,Virtual Sexuality,Gabie Bramhill,11/13/1927,Science Fiction,152246737-8,Flashset,Chinese,2224,11,1.6,744.18
+506,"Newburgh Sting, The",Aarika Chatten,1/1/1940,Science Fiction,959317295-5,Jabbersphere,Haitian Creole,6145,8,2.0,179.67
+507,Raincoat,Lorenza Boothe,8/24/2007,Non-Fiction,623809147-9,Yambee,Nepali,420,12,2.7,960.49
+508,Funny People,Audrie Sawle,4/20/1987,Fiction,805066326-4,Dabshots,Somali,3288,1,4.7,702.96
+509,Cahill U.S. Marshal (Cahill: United States Marshal) (Wednesday Morning),Norene Blaksley,6/1/1941,Mystery,379265796-1,Tanoodle,Tsonga,296,17,3.9,231.1
+510,Face of a Fugitive,Mead Mainson,7/18/1903,Mystery,234355171-5,Gigaclub,Belarusian,4115,9,2.6,187.16
+511,"Ugly American, The",Michele Borrow,9/26/1905,Non-Fiction,802014167-7,Jaxbean,Oriya,3452,4,2.9,588.69
+512,Progression,Pierce Morfield,1/16/2006,Fiction,107969764-0,Jabbersphere,Tetum,884,17,1.4,252.22
+513,Twenty-Four Eyes (Nijûshi no hitomi),Carolyne Nettleship,3/27/1945,Fiction,201111737-2,Edgeblab,Nepali,3379,7,3.0,11.47
+514,Legends of the Fall,Norri Fancott,5/14/1998,Non-Fiction,420173628-8,Dynabox,Irish Gaelic,3490,15,1.6,865.92
+515,Shadow Conspiracy,Lauritz Benallack,10/26/2002,Mystery,275902440-7,Kazu,Tswana,9945,14,3.8,278.96
+516,Spanglish,Aretha Birds,9/29/2018,Romance,026107538-1,Tambee,Estonian,2178,9,5.0,370.44
+517,Sweet Dreams,Norma Broggio,5/3/1912,Science Fiction,302575760-4,Meemm,Oriya,6862,4,4.0,373.13
+518,Sintel,Annabelle Brommage,7/20/1956,Romance,790836345-8,Camimbo,Italian,1083,15,4.9,841.9
+519,27 Missing Kisses,Moses Jankin,2/18/1905,Science Fiction,749209813-8,Buzzbean,Arabic,467,16,1.2,955.81
+520,H6: Diario de un asesino,Oates Hugnot,10/12/2005,Mystery,186084465-0,Feedmix,Portuguese,7767,17,4.9,878.67
+521,Bless the Beasts & Children,Dalis Ferson,5/4/1984,Science Fiction,608702786-6,Blognation,Telugu,4609,1,4.5,463.3
+522,Genocide (Konchû daisensô),Elyssa Loosely,11/14/2013,Romance,771210251-1,Vitz,Tok Pisin,8158,1,1.2,434.81
+523,"Seafarers, The",Niel Middler,3/29/1999,Science Fiction,736602831-2,Tanoodle,Irish Gaelic,7941,16,2.9,432.12
+524,Naked in New York,Miran Marco,11/22/1950,Romance,112096287-0,Voomm,German,5991,15,1.7,469.73
+525,Frantic,Benny Thouless,4/5/1974,Non-Fiction,500671880-3,Skipfire,Chinese,8049,11,2.7,741.21
+526,Straight from the Heart,Russ Knowlson,1/30/1962,Mystery,250907479-2,Topicware,Mongolian,8474,16,4.7,671.75
+527,Dr. Goldfoot and the Bikini Machine,Bourke Linck,12/27/1960,Mystery,678970494-9,Blogtags,Tswana,959,10,1.4,486.46
+528,Attack!,Randie Lamdin,6/19/2018,Mystery,618489045-X,Babbleopia,Burmese,6969,16,2.5,319.13
+529,"End of Summer, The (Early Autumn) (Kohayagawa-ke no aki)",Homere Wyatt,1/13/1922,Mystery,277212694-3,Voonyx,Albanian,6245,9,3.0,799.52
+530,"Night Porter, The (Portiere di notte, Il)",Bobette Padberry,10/28/1917,Non-Fiction,205369477-7,Fanoodle,Marathi,4565,20,4.0,846.25
+531,"Autumn Tale, An (Conte d'automne)",Cynthea Lowton,5/10/1906,Non-Fiction,499636935-3,Shuffletag,Swahili,1149,13,4.4,86.84
+532,Tropic Thunder,Tessy Folcarelli,10/30/2022,Mystery,678670059-4,Flipbug,Swati,4910,17,2.3,783.76
+533,McCullin,Gray Minger,1/31/1913,Non-Fiction,693889395-0,Quinu,Tamil,9719,7,2.8,944.83
+534,"Three Musketeers, The",Rafaela Bayston,12/20/1942,Science Fiction,549127784-3,Rhyzio,Assamese,6330,8,1.1,599.75
+535,Bones Brigade: An Autobiography,Karlie Patterson,10/5/1946,Non-Fiction,506910530-2,Skalith,Ndebele,3158,13,5.0,802.67
+536,Belly,Elysia Draijer,6/12/1977,Fiction,922832765-0,Ntag,Haitian Creole,6795,16,4.0,629.04
+537,Sacrifice (Zhao shi gu er),Hamilton MacVaugh,7/23/1937,Fiction,897266811-7,Blogtag,Sotho,5807,9,3.4,812.18
+538,Devil's Knot,Aeriela Labrone,9/28/1959,Romance,054498827-2,Voonix,Tswana,9799,8,1.7,32.15
+539,Divorce American Style,Fernanda Mann,7/16/1912,Science Fiction,194086408-9,Eire,Pashto,3602,6,4.0,237.28
+540,Alien Nation,Chauncey Day,9/18/1975,Non-Fiction,295483289-4,Eabox,Indonesian,6780,8,2.6,468.9
+541,"Dead Hate the Living!, The",Martita Batson,6/26/1937,Science Fiction,323711822-2,Yodel,Indonesian,9652,1,2.8,874.73
+542,Forget Me Not,Jandy Egan,10/13/1934,Science Fiction,359703359-8,Jayo,Thai,1304,13,1.7,633.89
+543,Sputnik,Annadiane Emptage,7/22/1923,Mystery,053085681-6,Tagcat,Swedish,5570,4,3.6,797.77
+544,Visitors,Kori Bortol,2/23/2022,Romance,944152036-5,Lajo,Hiri Motu,3805,1,4.4,41.39
+545,Cherry Falls,Barnard Quartermain,4/23/1978,Non-Fiction,908800145-6,Vinte,Malay,6866,5,3.8,936.17
+546,Desire Under the Elms,Georgiana Dewhirst,5/6/1901,Mystery,291878779-5,Jabberstorm,Lao,5199,2,4.4,194.17
+547,Lovers & Leavers (Kuutamolla),Lorine Skehens,11/27/1937,Non-Fiction,736797186-7,Skynoodle,Dari,7074,8,1.3,610.13
+548,It Happened Tomorrow,Blaire Giddens,1/9/2002,Non-Fiction,071249065-5,Kayveo,Bosnian,1653,7,1.2,561.62
+549,Black Dawn,Godfry Peasegood,1/7/1960,Mystery,132463179-1,Pixonyx,Greek,2097,9,2.3,424.02
+550,Five Children and It,Charla McPhilemy,10/29/1901,Non-Fiction,161188685-6,Skinix,Japanese,8183,15,4.6,869.89
+551,Gurren Lagann: The Lights in the Sky are Stars (Gekijô ban Tengen toppa guren ragan: Ragan hen),Nichole Izaac,8/12/1964,Fiction,524032537-5,Topicblab,Papiamento,9167,15,3.6,891.06
+552,U.S. Seals,Tod Domerque,3/27/1999,Mystery,650039913-7,Bubblemix,German,3088,3,3.3,928.87
+553,Page Eight,Clyve Wainscoat,10/26/1988,Fiction,274910547-1,Innotype,Kyrgyz,7640,4,1.7,805.1
+554,Legend of the Fist: The Return of Chen Zhen (Jing wu feng yun: Chen Zhen),Siegfried Adelman,9/25/1946,Fiction,995409448-2,Tagcat,Tamil,3637,0,4.5,901.75
+555,"Way We Laughed, The (Così Ridevano)",Holli Sangra,7/9/2008,Non-Fiction,406324969-7,Divavu,Swedish,6874,1,1.3,403.31
+556,Patsy,Fabien Blanckley,7/16/2002,Mystery,486204352-6,Zooveo,Ndebele,8612,2,1.6,654.8
+557,All the Brothers Were Valiant,Cristionna Saylor,10/28/1997,Romance,377225059-9,Jabbersphere,Marathi,3326,16,1.8,738.19
+558,Widows' Peak,Quinton Williscroft,7/4/1934,Mystery,081890648-0,Skinte,Hungarian,6483,12,4.9,361.59
+559,Alien Abduction,Waldemar Kerner,5/30/1991,Mystery,530936417-X,Quimba,West Frisian,6111,15,2.4,901.75
+560,The Man Who Lived Again,Angelica Ruthven,4/10/1905,Fiction,970684710-3,Riffwire,Tajik,4599,5,2.7,643.55
+561,"Matador, The",Tootsie Garshore,7/7/1983,Romance,519421394-8,Cogidoo,Quechua,7244,10,2.3,279.0
+562,"Joy Luck Club, The",Donovan Cobbold,5/23/2004,Mystery,028559871-6,Topiclounge,Bislama,8861,13,2.9,930.94
+563,Under the Volcano,Anissa Georges,2/12/2006,Science Fiction,784653632-X,Camido,Tsonga,2006,7,3.1,62.83
+564,Like Water,Farrah Pail,5/31/1957,Science Fiction,475491917-3,Zoomzone,Pashto,3065,10,3.2,704.62
+565,Gabriel,Bronnie Baitey,12/30/1987,Non-Fiction,793257373-4,Wordware,Polish,1358,0,2.6,905.53
+566,Shara (Sharasojyu),Elmore Brabyn,10/21/1991,Mystery,398065618-7,Skilith,Pashto,6140,7,3.3,462.56
+567,Blame It on the Bellboy,Gwenore Ince,2/13/1935,Non-Fiction,679836944-8,Gabtype,Amharic,4237,1,3.7,459.06
+568,Dirty Love,Gayleen Pavey,2/16/2002,Romance,867803722-9,Roomm,Belarusian,9595,1,1.4,932.44
+569,Mumblecore,Catina McBayne,9/30/1921,Fiction,898376024-9,Vinder,Azeri,8257,18,4.7,355.98
+570,Neighbors,Leeanne Szubert,10/29/1946,Romance,069144726-8,Gigabox,Bosnian,612,19,4.5,782.33
+571,"Dance of Reality, The (Danza de la realidad, La)",Shani Overal,7/21/1940,Science Fiction,538895311-4,Chatterpoint,English,6565,14,2.5,345.19
+572,Dream Land,Georgie Lassey,4/30/1932,Romance,618628446-8,Brightdog,Māori,9500,11,4.2,574.42
+573,Francis,Jacqui Reynalds,11/17/1951,Science Fiction,465568542-5,Edgetag,Ndebele,8711,16,3.8,544.02
+574,15 Minutes,Lydie Ivan,11/18/1951,Non-Fiction,999605581-7,Yoveo,Amharic,9165,8,5.0,78.15
+575,"Hammer, The",Les Drewitt,5/12/1987,Mystery,912349286-4,Thoughtmix,Norwegian,9456,1,3.9,530.1
+576,"Bohemian Life, The (La vie de bohème)",Tobiah O'Crevy,4/24/1934,Romance,774617605-4,Jabberbean,Swati,4864,14,5.0,342.61
+577,Dickson Experimental Sound Film,Kirby Whorlow,1/24/1963,Non-Fiction,716691133-6,Youfeed,Hindi,8870,15,2.9,571.15
+578,"Souper, Le (Supper, The)",Virginia Darlasson,3/17/1977,Fiction,741121436-1,Roomm,English,7912,10,5.0,996.12
+579,The Things of Life,Alejoa Nalder,3/2/1918,Science Fiction,459861995-3,Jazzy,Japanese,3671,6,1.4,646.23
+580,"Legend II, The (Fong Sai Yuk juk jaap)",Glenna Drewry,3/7/1919,Romance,352703194-4,Realmix,Malay,8571,5,3.4,128.44
+581,Donovan's Brain,Onida Flips,12/18/1960,Mystery,771017630-5,Twiyo,Danish,4212,10,2.0,772.3
+582,"Sign of Four, The",Jay Ewan,7/6/1919,Fiction,319516022-6,Centidel,Swati,1726,17,4.1,525.16
+583,"Sign of Four, The",Domenic Cordy,5/17/1959,Fiction,910476822-1,Shuffletag,Dhivehi,1098,12,3.7,301.69
+584,Right America: Feeling Wronged - Some Voices from the Campaign Trail ,Tomlin Stannislawski,1/27/1947,Science Fiction,092067138-1,Shufflebeat,Swedish,3405,0,2.0,451.29
+585,Seven Days to Noon,Shelli Androli,3/22/1912,Mystery,687104553-8,Gabtype,Pashto,3732,1,4.4,757.4
+586,Crime After Crime,Chloe McGlade,4/2/1934,Fiction,257140926-3,Livefish,Kashmiri,3190,6,4.4,947.87
+587,Brute (Bandyta),Valina Mapes,4/14/1927,Non-Fiction,926001871-4,Janyx,Indonesian,8839,0,4.8,304.35
+588,Dear Me,Dorice McLellan,9/29/1921,Non-Fiction,092356358-X,Photolist,French,1874,7,4.6,541.47
+589,Louise Brooks: Looking for Lulu,Britteny Whilder,2/4/2000,Fiction,892777317-9,Gigaclub,Hindi,8055,10,3.7,798.72
+590,On the Threshold (Lars i porten),Paula Finnis,8/25/1997,Romance,012856581-0,Cogibox,Luxembourgish,3316,1,3.0,243.85
+591,Fire in the Sky,Had Kendell,9/17/1971,Romance,358100843-2,Divavu,Armenian,4795,7,3.8,709.42
+592,Siberian Education (Educazione siberiana),Mortimer Peyro,10/22/2010,Mystery,796723321-2,Tekfly,Macedonian,5264,14,4.0,378.17
+593,"Crying Game, The",Davida Murdy,5/29/1976,Science Fiction,619161674-0,Edgeify,Oriya,9990,0,2.5,37.09
+594,"Lost Patrol, The",Amaleta Jowsey,11/4/1973,Non-Fiction,259224562-6,Jazzy,Dutch,6784,14,4.8,173.8
+595,"Housemaid, The (Hanyo)",Julieta Wolfers,6/15/2016,Fiction,674488733-5,Tagfeed,Thai,2479,2,4.1,676.06
+596,Safe,Anastasia Rengger,6/22/1923,Non-Fiction,489603466-X,Gabtype,Filipino,2039,20,3.5,785.65
+597,World War II: When Lions Roared,Abram Bimrose,10/31/1944,Non-Fiction,857402217-9,Innotype,Ndebele,457,18,4.4,645.78
+598,Mayerling,Marcie Fraanchyonok,4/2/1985,Romance,984135038-6,Blogspan,Swedish,6609,10,1.7,768.13
+599,Executive Target,Lynna Curness,5/25/2020,Romance,894112311-9,Wordify,Yiddish,9868,17,4.4,36.23
+600,Scarface,Editha Fullegar,4/23/1983,Non-Fiction,055358880-X,Jatri,English,9227,4,1.2,106.58
+601,Digging for Fire,Maurine Mallya,12/11/1933,Non-Fiction,708892759-4,Skinder,Tajik,7217,0,4.2,458.22
+602,"Ambushers, The",Silvain Kelle,11/28/1908,Science Fiction,267740912-7,Jetpulse,Lithuanian,3977,8,1.6,39.19
+603,"Bell for Adano, A (John Hersey's A Bell for Adano)",Lewiss Owlner,10/26/1997,Science Fiction,475299599-9,Thoughtbeat,Kyrgyz,8915,4,3.4,826.02
+604,"Bad News Bears, The",Donaugh Madsen,12/27/1923,Romance,316352046-4,Blogtags,Georgian,6879,12,2.9,29.63
+605,Transylmania,Korry Meach,5/13/2016,Non-Fiction,932931090-7,Flashset,Malay,4095,18,2.8,277.15
+606,"Devil at 4 O'Clock, The",Adler Thorby,1/19/1942,Mystery,205463389-5,Photobug,Bulgarian,9186,12,1.7,915.01
+607,Bachelor Mother,Damian Leupoldt,7/7/2020,Non-Fiction,333037711-9,Mydo,Croatian,8208,10,4.8,198.66
+608,"Twilight of the Golds, The",Luella Aveline,10/28/1924,Fiction,503798359-2,Fiveclub,Tsonga,9443,4,3.4,380.16
+609,In God's Hands,Harrietta Pearton,8/30/1939,Romance,006810967-9,Twiyo,Dzongkha,4396,5,4.5,908.67
+610,Bound by Flesh ,Shane Cocklie,3/3/1961,Fiction,910721328-X,Aivee,Guaraní,4168,18,2.8,474.72
+611,Detroit Rock City,Sly Alenichev,5/10/1983,Mystery,308103909-6,Skipfire,Burmese,5716,17,4.2,94.53
+612,Shattered Image,Ofilia Lunnon,4/22/1904,Science Fiction,359978915-0,Ntag,Tok Pisin,6635,20,1.8,449.2
+613,I'm King Kong!: The Exploits of Merian C. Cooper ,Fremont Wickersham,1/11/1973,Mystery,190037475-7,Quimba,Swedish,2432,8,3.6,103.41
+614,Pumpkinhead,Karissa Pettingill,8/7/1927,Mystery,505260434-3,Mydeo,Somali,2882,4,3.4,363.41
+615,Winged Creatures (Fragments),Ainslie Smiz,8/29/1915,Non-Fiction,708988855-X,Digitube,German,446,20,1.6,478.25
+616,"Mummy's Ghost, The",Matti Stollman,4/4/1986,Fiction,748365190-3,Roodel,English,1330,10,1.5,551.93
+617,Homicidal,Marc Tregoning,7/19/1983,Non-Fiction,626597157-3,Oloo,Afrikaans,8304,19,1.6,570.59
+618,Longford,Christel Falkinder,4/12/2011,Fiction,425570927-0,Livepath,Burmese,6675,15,1.0,664.68
+619,Truly Human (Et rigtigt menneske),Wilona Tappington,10/5/1927,Science Fiction,978244148-1,Zava,Norwegian,3431,12,1.6,988.8
+620,Confess,Corrie Gravells,8/9/1968,Science Fiction,408447981-0,Twiyo,Tamil,3892,1,1.5,235.65
+621,Oliver Twist,Lydia Bloom,1/11/1911,Mystery,899085142-4,Browseblab,German,1701,6,1.6,24.3
+622,Interrupted Melody,Catherina Chapelle,10/30/1900,Romance,222317822-7,Zoozzy,Lao,9085,17,3.0,256.74
+623,Coup de grâce (Der Fangschuß),Jeddy Crust,8/27/2004,Non-Fiction,481700687-0,Einti,Malay,9160,1,3.4,855.29
+624,"Brady Bunch Movie, The",Ave Abbiss,11/24/1939,Science Fiction,360045904-X,Browsetype,Tok Pisin,5212,16,4.2,577.59
+625,Uwasa No Onna (The Woman in the Rumor) (Her Mother's Profession),Rafaellle Gibb,1/6/2009,Non-Fiction,990942013-9,Eadel,Swedish,9430,3,4.2,609.15
+626,Test Pilot,Amata Drury,7/24/1959,Mystery,539389077-X,Oyoba,Georgian,7301,20,2.7,588.29
+627,Three Wise Men (Kolme viisasta miestä),Winfred Osant,11/6/2008,Science Fiction,971323368-9,Gigaclub,Sotho,6703,14,4.9,83.83
+628,Client 9: The Rise and Fall of Eliot Spitzer,Trey Ainsbury,6/6/1900,Science Fiction,340876572-3,Mybuzz,Czech,5063,1,3.7,551.22
+629,Kids in America,Lira Joron,8/4/1900,Fiction,959206121-1,Oloo,Oriya,4565,1,3.0,561.52
+630,"Incredible Shrinking Woman, The",Roxanne Epsly,6/5/1938,Fiction,266925428-4,Quatz,Korean,8087,16,4.9,440.19
+631,"Rebel, The",Kahaleel Comport,3/7/1928,Non-Fiction,951857204-6,Tagfeed,Czech,7602,19,2.3,209.06
+632,"Steel Helmet, The",Hew Whitford,10/23/1907,Science Fiction,070860159-6,Voolith,Catalan,2705,19,3.0,693.39
+633,Torrid Zone,Chan Koba,3/20/2015,Mystery,567193407-9,Omba,Polish,7286,5,3.1,128.18
+634,Midnight in the Garden of Good and Evil,Cassandra Dundendale,5/14/1906,Non-Fiction,558765712-4,Babbleset,Malagasy,222,20,4.3,900.13
+635,Day of the Wacko (Dzien swira),Lorraine Trustrie,8/18/1974,Science Fiction,460205939-2,Jetwire,Maltese,1785,17,3.6,601.4
+636,Moon Man,Adina Asmus,8/28/1901,Science Fiction,719869787-9,Jabbersphere,Oriya,9204,17,1.2,842.98
+637,Infinity,Antonina Frayling,11/22/1987,Science Fiction,725933425-8,Digitube,Estonian,1029,3,2.4,736.86
+638,Insanitarium,Deck Burchett,3/24/1952,Fiction,505225971-9,Divanoodle,Kyrgyz,6282,5,3.8,727.76
+639,Chronic Town,Toddie McKirton,4/16/1997,Fiction,058118508-0,Rhyloo,Malay,1495,2,3.8,444.21
+640,Claymation Comedy of Horrors,Jordon Godfroy,12/23/1944,Mystery,158890682-5,Wikizz,Romanian,9037,13,4.5,819.67
+641,L.A. Story,Tailor Summerlee,8/18/1957,Science Fiction,999321261-X,Teklist,Zulu,3123,10,2.4,600.25
+642,The Anderssons in Greece: All Inclusive,Tam Willimot,5/8/2003,Non-Fiction,077212650-X,Kimia,Malayalam,7629,15,1.2,790.76
+643,Savage Grace,Gilbert Ambroix,1/1/2014,Fiction,891800450-8,Twitterbeat,Guaraní,1659,5,3.3,119.73
+644,"Suitor, The (Soupirant, Le)",Johnette Jaquemar,5/9/1937,Fiction,360032842-5,Zava,Tamil,4318,11,1.5,608.39
+645,"Memory Keeper's Daughter, The",Franky Allabush,7/22/1919,Fiction,368292780-8,Topiclounge,Fijian,6248,12,1.6,319.42
+646,Dick,Cherice Landeaux,4/5/2000,Science Fiction,903093751-3,Tanoodle,Kyrgyz,7498,15,4.8,486.86
+647,The Natural Love,Dee Fawdry,12/12/1946,Science Fiction,332849189-9,Oyoyo,Korean,226,3,1.1,494.93
+648,American Swing,Melisse Anstis,10/17/1964,Mystery,648774823-4,Riffpedia,English,490,2,3.6,642.77
+649,Hollywood Ending,Elyse Forsard,9/27/1985,Mystery,780260242-4,Wordify,Japanese,4415,11,4.8,6.26
+650,Formula 51,Peyter Booij,12/16/1984,Non-Fiction,087671684-2,Yadel,Hungarian,6426,4,3.3,283.54
+651,Bodyguards and Assassins,Morlee Godsal,5/29/1962,Science Fiction,349763261-9,Eare,Kannada,6925,16,4.1,74.0
+652,Zatoichi Goes to the Fire Festival (Zatôichi abare-himatsuri) (Zatôichi 21),Cornie Wallas,9/30/1929,Romance,731706930-2,Mita,Bulgarian,8790,18,4.1,826.01
+653,Wild China,Rufe Chainey,5/22/1942,Romance,676122816-6,Mydeo,Catalan,444,10,2.9,173.94
+654,Jönssonligan - Den perfekta stöten,Marjorie Ferie,8/1/1977,Fiction,347867120-5,Eamia,Icelandic,5801,13,1.1,827.84
+655,Drive Thru,Salmon Hocking,10/14/1915,Non-Fiction,415167347-4,Vimbo,Azeri,5972,3,2.9,971.37
+656,Mayor of the Sunset Strip,Roma Hannum,4/29/1917,Fiction,723201595-X,Skivee,Sotho,8752,13,2.8,904.64
+657,"Report on the Party and the Guests, A (O slavnosti a hostech)",Granville Mapam,12/17/1926,Mystery,278762649-1,Livetube,Lao,2419,16,2.9,931.56
+658,Hangman's Knot,Bee Matthaus,5/2/1904,Mystery,327146627-0,Blogtags,Tetum,515,3,2.4,372.23
+659,Sundays and Cybele (Les dimanches de Ville d'Avray),Donavon Spurdon,2/10/1915,Science Fiction,074136166-3,Browsebug,Croatian,36,4,3.5,584.6
+660,Jackie Brown,Quentin Rettie,8/29/1959,Mystery,707754873-2,Zoozzy,Dzongkha,1906,19,2.4,899.41
+661,The Monastery of Sendomir,Sheffie Dielhenn,11/30/1949,Romance,880985258-3,Twimbo,Pashto,7220,9,2.6,920.78
+662,After Five in the Jungle (Nach Fünf im Urwald),Winnie Gomby,7/21/1967,Romance,418428683-6,Dynazzy,Guaraní,9672,0,3.2,67.73
+663,"Day in the Country, A (Partie de campagne)",Orelle Havelin,11/13/1913,Fiction,841230145-5,Jabbersphere,Icelandic,7650,4,4.8,590.37
+664,"Fast & Furious (Fast and the Furious 4, The)",Pen Doxsey,6/8/1903,Science Fiction,487920440-4,Yakitri,Tok Pisin,2807,15,4.9,435.77
+665,Primer,Claiborn Dakhov,12/3/2017,Non-Fiction,721425613-4,Muxo,Bislama,821,3,2.5,166.46
+666,Miss March,Sabine Kernock,2/16/1927,Fiction,453687737-1,Trudeo,Khmer,3691,20,2.2,544.21
+667,Madagascar 3: Europe's Most Wanted,Jeffy Palleske,9/20/2002,Mystery,614430919-5,Kimia,Zulu,2766,11,3.1,121.5
+668,Dolls,Parnell Nickless,3/29/2001,Non-Fiction,456040191-8,Kwinu,Mongolian,1024,3,2.8,275.93
+669,Gleaming the Cube,Mariana De Moreno,3/26/2021,Mystery,511737402-9,Flashspan,Thai,3527,13,2.4,767.01
+670,I Am a Sex Addict,Winfred Farmer,2/6/1902,Romance,748732507-5,Fivebridge,Kurdish,5582,11,1.7,636.47
+671,The Boy Who Cried Werewolf,Nora Enever,12/30/2018,Non-Fiction,192389350-5,Meevee,Irish Gaelic,4586,5,4.7,634.07
+672,"3 Worlds of Gulliver, The",Winnie Gerish,2/25/1913,Science Fiction,670449521-5,Zoombox,English,5445,16,1.7,865.57
+673,Computer Chess,Arnie Acreman,3/9/1925,Non-Fiction,090823801-0,Cogilith,Assamese,4199,18,4.5,852.13
+674,Office Space,Cammy Callway,4/8/1906,Fiction,442485361-6,Livefish,Afrikaans,5790,18,4.0,2.99
+675,Not on the Lips (Pas sur la bouche),Lazaro Pocklington,11/14/1907,Mystery,189539542-9,Teklist,Portuguese,5359,14,2.2,91.96
+676,"Best of Youth, The (La meglio gioventù)",Carrie Crafts,1/13/1912,Non-Fiction,676752116-7,Viva,Guaraní,6600,19,1.9,957.67
+677,"Stranger's Heart, A",Neala Carrier,1/17/1919,Science Fiction,223888418-1,Photobug,Gujarati,8618,3,2.0,281.93
+678,America's Heart and Soul,Saundra Vaudre,5/11/1988,Non-Fiction,253221259-4,Jaxworks,Estonian,191,11,2.4,7.51
+679,In Cold Blood,Salomo Ivison,9/25/2012,Science Fiction,142333987-8,Blogpad,Quechua,9410,16,4.1,842.21
+680,Museum Hours,Tristan Verbruggen,10/25/1911,Mystery,169960498-3,Youopia,Danish,560,20,3.0,182.85
+681,Ruins,Orton Matfield,2/5/1917,Non-Fiction,924785318-4,Voomm,Malay,9450,20,1.5,114.66
+682,Louis C.K.: Shameless,Eal Waddup,10/15/1902,Science Fiction,515289523-4,Twitterworks,Belarusian,2691,16,2.3,932.26
+683,Abraham,Guthry Trowl,10/1/1977,Science Fiction,496160640-5,Aimbo,Bislama,9410,20,2.0,667.45
+684,Repentance,Aindrea Shaddock,11/9/1928,Mystery,939563772-2,Jabbertype,Bislama,157,12,3.0,565.32
+685,Kolya (Kolja),Red Lunnon,5/3/1936,Science Fiction,487610210-4,Topicware,Moldovan,7025,5,4.3,719.9
+686,"Help Me, Eros (Bang bang wo ai shen)",Nancee McNevin,11/20/1951,Romance,185212092-4,Demivee,Pashto,7086,4,3.4,828.83
+687,21 Jump Street,Pepillo Collihole,10/9/1990,Mystery,934890352-7,Innojam,Quechua,3893,1,1.8,239.56
+688,Female Perversions,Donaugh Lavalle,1/11/2010,Science Fiction,208296728-X,Skynoodle,Korean,3582,12,4.7,277.74
+689,Terror on a Train (Time Bomb),Perkin Schirak,5/19/1909,Fiction,966517899-7,Rhybox,Georgian,1570,13,1.6,418.78
+690,Wild Heritage,Melita Spaunton,6/5/1992,Romance,072765361-X,Realbuzz,Swahili,5096,17,4.2,442.0
+691,Art School Confidential,Annabella Behrend,4/26/1971,Non-Fiction,826244327-6,Devshare,Bengali,8105,13,4.0,570.71
+692,Stray Dog (Nora inu),Erin Lux,9/17/1916,Science Fiction,309126954-X,Mybuzz,Tswana,8518,9,2.3,261.39
+693,Hi-Life,Ingeborg Covil,10/31/1923,Fiction,430533094-6,Kimia,Kashmiri,1406,11,4.8,127.5
+694,"Story of My Life, The (Mensonges et trahisons et plus si affinités...)",Dominic Soame,8/3/2008,Romance,119914442-8,Plambee,Kannada,1084,4,2.8,800.42
+695,"Welcome Home, Roscoe Jenkins",Brooke Marriage,6/20/1949,Romance,002956794-7,Wikido,Dzongkha,9154,17,3.9,908.55
+696,After the Thin Man,Cory Verdy,3/7/1982,Mystery,908869215-7,Topicblab,Tajik,7744,8,4.0,424.71
+697,Dragon Ball Z: Bio-Broly (Doragon bôru Z 11: Sûpâ senshi gekiha! Katsu no wa ore da),Ange Welford,4/19/1945,Romance,213790942-1,Yodoo,Tetum,9731,15,3.4,723.71
+698,TMNT (Teenage Mutant Ninja Turtles),Clywd Meckiff,1/5/1910,Science Fiction,378104968-X,Oozz,Fijian,6952,16,4.2,617.73
+699,Vice Versa,Hobie Bottrill,9/2/1902,Science Fiction,666042951-4,Edgeify,Bislama,3137,5,3.1,534.87
+700,Forks Over Knives,Blaire Graham,8/5/1925,Fiction,153644310-7,Divanoodle,Kashmiri,5530,15,2.5,848.87
+701,What's the Worst That Could Happen?,Mollee Gott,12/7/2008,Romance,429193424-6,Digitube,Swahili,5767,7,3.2,891.23
+702,Dark Ride,Briano Zanelli,9/16/1989,Science Fiction,146382489-0,Meemm,Dhivehi,2534,18,1.8,721.63
+703,"Suspect, The (Yong-eui-ja)",Cassandry Slimon,4/11/2016,Fiction,726529319-3,Ntag,Croatian,5795,12,3.9,638.43
+704,Peep World,Gene Manshaw,1/21/2002,Science Fiction,080303015-0,Feedmix,Arabic,5829,3,1.4,785.88
+705,Kapitalism: Our Improved Formula (Kapitalism - Reteta noastra secreta),Nehemiah Kayser,9/14/1941,Non-Fiction,005951329-2,Twitterbridge,Somali,6895,11,3.6,802.12
+706,Anna,Mia Memmory,8/10/1996,Fiction,580086434-9,Tambee,Malagasy,2012,2,4.4,60.66
+707,Operation Pacific,Tammy Swallwell,8/25/2021,Science Fiction,857353632-2,Avamba,Kashmiri,8965,2,4.2,308.6
+708,"Cold Light of Day, The",Rodge Goreisr,10/12/1967,Fiction,234680521-1,Pixonyx,Kashmiri,2541,15,2.6,719.6
+709,A.C.O.D.,Celestine O'Dea,5/20/1957,Romance,312497705-X,Thoughtbeat,Papiamento,2720,12,3.6,261.84
+710,Alien Raiders,Alexine MacPeice,6/25/2019,Romance,279571850-2,Thoughtstorm,Danish,4653,17,3.1,798.52
+711,Distant Drums,Colene Farfull,10/2/1974,Non-Fiction,251501148-9,Kare,Dutch,7653,20,1.8,847.0
+712,Good Ol' Freda,Steffane Hof,1/2/2000,Science Fiction,147136287-6,LiveZ,Lithuanian,2996,18,3.7,879.72
+713,Shark Skin Man and Peach Hip Girl (Samehada otoko to momojiri onna),Ermengarde Leverette,7/22/2003,Science Fiction,858863368-X,Plambee,Greek,76,16,4.4,906.37
+714,Happy Family,Ulrike Chelsom,11/30/1999,Fiction,657470352-2,Trunyx,Assamese,4304,3,3.2,466.36
+715,Born in Flames,Remington Perl,6/26/1936,Fiction,915744812-4,Babblestorm,Papiamento,1990,1,4.0,753.66
+716,Parked,Analise Matiashvili,10/10/1995,Non-Fiction,923275337-5,Oba,Marathi,9771,3,2.3,0.8
+717,Dark Command,Marielle Hourigan,1/27/1922,Romance,973974220-3,Yozio,Lithuanian,9881,15,4.1,844.65
+718,The Overnight,Charles Andreas,7/5/1988,Science Fiction,265798590-4,Skinix,Korean,3147,11,4.2,302.93
+719,"You, the Living (Du levande)",Noelle Brusin,7/5/1960,Non-Fiction,486107921-7,Innotype,Armenian,5560,16,4.0,515.11
+720,"Damned, The (La Caduta degli dei)",Brian Ties,1/13/1919,Non-Fiction,986317890-X,Oyondu,Fijian,6161,0,2.3,703.57
+721,"Paradine Case, The",Skylar Doerr,8/29/1994,Non-Fiction,904224028-8,Quire,Japanese,6005,0,3.1,120.98
+722,And Your Mother Too (Y tu mamá también),Michel Heavy,9/5/1952,Romance,305867533-X,Fivechat,Swedish,3318,19,2.1,468.65
+723,"Mummy, The",Lorne Galey,2/22/1924,Romance,867896948-2,Rhyzio,Hindi,9589,3,2.1,686.74
+724,Sliding Doors,Murry Kubatsch,1/7/2013,Romance,094695211-6,Wikizz,Bislama,4920,19,1.8,651.14
+725,Forbidden Zone,Gloriane Cantera,5/12/1972,Science Fiction,957239221-2,Fanoodle,Malayalam,4909,0,4.6,376.81
+726,"Rebel, The (Le Rebelle)",Waylon Bluett,9/25/1903,Science Fiction,022174776-1,Brightbean,Greek,1819,4,4.0,88.86
+727,Man Trouble,Lyndsie Mougel,8/16/2016,Mystery,597910579-4,Gigazoom,Malay,5557,9,4.3,593.77
+728,"Cheap Detective, The",Jada Bente,9/27/1958,Romance,974489200-5,Camimbo,Hungarian,5499,10,4.3,59.75
+729,Speaking Parts,Merrilee Ragge,1/26/1951,Non-Fiction,679079655-X,Twitterworks,Norwegian,3740,13,1.2,983.12
+730,"Blob, The",Ellerey Golagley,9/8/1990,Science Fiction,085565714-6,Kare,Tswana,7390,15,2.9,938.73
+731,Oldboy,Alma Ferryn,7/29/2012,Fiction,311124025-8,Photojam,Macedonian,2354,8,4.1,876.31
+732,"Horse Rebellion, The (Pulakapina)",Gloriana Crake,7/8/1931,Romance,309343381-9,Izio,Armenian,739,9,2.3,679.33
+733,They,Mavis Goldhawk,10/1/1986,Mystery,692622110-3,Gabtune,Guaraní,8638,19,1.4,940.59
+734,It's Pat,Dorry Cattow,11/18/1966,Science Fiction,308798488-4,Skidoo,Hebrew,7126,0,3.2,291.75
+735,Words and Pictures,Fanni Edards,4/6/1926,Science Fiction,832038658-6,Edgewire,Italian,4618,18,3.2,438.8
+736,The Legend of Bloody Jack,Thoma Filpi,12/24/1975,Non-Fiction,505710514-0,Twiyo,Spanish,2569,20,1.5,393.67
+737,End of the Game (Der Richter und sein Henker),Georgina Goney,2/21/1930,Science Fiction,876813486-X,Eayo,Pashto,4598,3,1.8,192.54
+738,"Lady Vanishes, The",Shantee Reason,2/10/1920,Non-Fiction,857416402-X,Devbug,Estonian,9235,11,1.9,788.95
+739,"Day After Trinity, The",Aron Kennelly,5/5/1913,Science Fiction,769678680-6,Dabjam,Mongolian,6033,16,2.8,583.07
+740,Touch the Sound: A Sound Journey with Evelyn Glennie,Dulcy Maffia,9/4/1935,Science Fiction,743875241-0,Tazzy,Lithuanian,3084,1,1.6,580.78
+741,Executive Suite,Adella Foggo,12/31/1911,Mystery,847780021-9,Geba,Moldovan,3220,9,4.6,127.53
+742,Black Dynamite,Benny Seeks,6/10/2020,Romance,205132347-X,Fliptune,Polish,5734,1,4.7,311.23
+743,Love Is All There Is,Any Kyffin,5/11/1941,Romance,632434248-4,Zava,Tamil,8035,14,2.0,260.69
+744,Barbara,Yule Abden,3/19/1918,Fiction,610782937-7,Blogtag,Hebrew,6431,7,2.9,65.8
+745,Play Girl,Jonie Monteaux,6/9/2020,Science Fiction,167193320-6,Einti,Azeri,4035,5,3.9,872.94
+746,Gappa: The Triphibian Monsters (AKA Monster from a Prehistoric Planet) (Daikyojû Gappa),Marrissa Burkill,3/5/1939,Fiction,711724369-4,Edgeify,Sotho,4922,19,3.6,360.13
+747,Cyrano de Bergerac,Walther Denzilow,7/15/1902,Romance,270922679-0,Geba,Lao,8420,8,3.1,386.21
+748,Magnificent Obsession,Jonell Eliaz,1/28/1941,Fiction,341181102-1,Buzzshare,Bengali,7243,13,2.2,532.42
+749,Fandango,Kerry Sperry,8/11/1990,Mystery,513960737-9,Fliptune,Japanese,2726,2,2.7,937.77
+750,Alien Hunter,Luca Parres,6/24/1959,Science Fiction,104152424-2,Realpoint,Bengali,5264,17,2.1,686.98
+751,"Flock, The",Mala Baptie,11/19/2013,Fiction,744836327-1,Skivee,Pashto,5548,2,2.4,271.97
+752,Catfish,Ardene Moline,7/20/1966,Non-Fiction,273655202-4,Meeveo,Swati,4033,12,4.2,318.5
+753,Bob Funk,Molly Cisson,9/15/1966,Non-Fiction,723942128-7,Blogtags,Finnish,4495,17,1.5,700.86
+754,Kiss Me Goodbye,Lori Gleadhell,10/27/1955,Fiction,138514365-7,Topdrive,Malayalam,3159,19,3.3,912.71
+755,Whores' Glory,Joby Longmore,4/4/1911,Fiction,978187648-4,Tavu,Fijian,6061,11,2.4,100.61
+756,What Price Hollywood?,Odetta Goodlip,1/23/1943,Science Fiction,223300207-5,Kwideo,Swedish,7727,5,2.5,398.27
+757,8:28 am (8 Uhr 28),Griffy Drought,12/15/1922,Non-Fiction,527074603-4,Babbleset,Moldovan,5990,14,2.5,611.32
+758,"You're a Good Man, Charlie Brown",Becka Haisell,5/15/2022,Mystery,458254667-6,Photobug,Hungarian,1003,17,4.1,903.36
+759,Homefront,Sapphira Elgood,1/13/2007,Non-Fiction,491281534-9,Zava,Dhivehi,9686,11,2.9,652.15
+760,"Talented Mr. Ripley, The",Fifi Sackur,2/16/1987,Non-Fiction,576977040-6,Katz,Amharic,3685,12,2.8,74.09
+761,Still of the Night,Maryrose Gullivent,1/22/2020,Non-Fiction,134658172-X,Twimbo,Tetum,2545,7,4.6,533.57
+762,Out at the Wedding,Franky McCraw,9/5/1963,Mystery,221978654-4,Twitterbridge,Telugu,6536,18,3.8,307.15
+763,Medicine for Melancholy,Muhammad Ibbitson,12/10/1974,Non-Fiction,477701759-1,Voonyx,Kyrgyz,9521,2,2.2,403.8
+764,Kandahar (Safar e Ghandehar),Maje Ibbetson,10/6/1964,Romance,610098243-9,Skippad,Haitian Creole,7923,17,3.4,304.08
+765,Paper Clips,Cly Midden,7/5/2014,Non-Fiction,068767116-7,Zava,Japanese,2426,12,2.7,119.7
+766,Dracula 2000,Godiva Butterley,10/11/1993,Non-Fiction,052464737-2,DabZ,Pashto,9448,9,2.8,268.88
+767,"Catechism Cataclysm, The",Aube Heaford,9/28/1983,Romance,889886483-3,Plambee,Norwegian,7471,9,1.6,777.22
+768,"Corridor, The (Koridorius)",Lianna Hazlewood,3/27/2013,Non-Fiction,786734311-3,Photofeed,Tetum,1430,3,3.6,745.5
+769,Life with Mikey,Kayle Quince,8/21/1955,Romance,691484807-6,Gabcube,Mongolian,4106,18,1.6,939.04
+770,"Next Stop, Greenwich Village",Hendrik Tiddy,9/30/1941,Fiction,325236416-6,Oozz,Italian,2675,4,2.2,111.02
+771,Son of Dracula,Masha Legrave,8/29/1996,Romance,918734766-0,Buzzshare,Persian,5404,19,3.5,219.1
+772,"Safety of Objects, The",Kaylee Gerasch,10/8/1945,Non-Fiction,632324148-X,Livetube,Bengali,4892,1,4.2,825.55
+773,Raspberry Boat Refugee,Dunc Newitt,5/17/2010,Science Fiction,435674349-0,Edgeblab,Persian,86,20,2.0,242.29
+774,Will Success Spoil Rock Hunter?,Frederic Keysall,2/4/1947,Non-Fiction,242787297-0,Pixope,Tsonga,3212,9,3.7,514.04
+775,Crimson Tide,Roley Barme,10/26/1955,Science Fiction,507784602-2,Quimba,Papiamento,8456,18,4.7,414.52
+776,Meteor,Thalia Hynam,9/1/1993,Romance,583831512-1,Trilith,Bulgarian,8678,11,1.1,712.24
+777,Outside Satan (Hors Satan),Budd Tregidgo,11/4/2022,Fiction,091159356-X,Bubbletube,Swati,6451,5,1.7,356.04
+778,Full Frontal,Lacie Yandell,8/6/1903,Fiction,191980642-3,Fiveclub,Norwegian,3809,12,4.4,778.01
+779,Run Sister Run!,Pete Courtier,8/26/2005,Mystery,517435777-4,Ailane,Aymara,4408,13,1.4,307.11
+780,War of the Buttons,Leilah Shackleford,1/29/1939,Romance,823813711-X,Zooxo,Khmer,3093,6,5.0,93.28
+781,Actresses (Actrices),Lorenza Labbett,10/19/1901,Non-Fiction,801412412-X,Wordtune,Hungarian,3428,15,4.2,929.11
+782,Tin Man,Daniele Moberley,8/13/1970,Romance,780153198-1,Wikizz,Arabic,2943,8,4.6,589.58
+783,Pride,Shurwood Selland,9/15/2016,Fiction,284629241-8,Voonyx,Lithuanian,9912,14,3.2,877.18
+784,If You Only Knew,Demetrius Rysom,2/28/1999,Mystery,537686601-7,Ooba,Dari,6373,9,3.0,571.54
+785,Gimme Shelter,Anna-diana Grimsdyke,1/10/2001,Non-Fiction,751628144-1,Oyonder,Arabic,9084,12,2.2,196.11
+786,Sol ,Andrey Covely,5/17/1964,Science Fiction,615791439-4,Vidoo,Armenian,1696,1,1.0,950.02
+787,Harmontown,Erastus Bowlesworth,6/13/1981,Romance,139089285-9,Topiclounge,French,3453,0,1.8,361.33
+788,Noam Chomsky: Distorted Morality,Enrichetta Tunnoch,10/20/1940,Non-Fiction,394135732-8,Viva,Korean,5805,17,2.9,363.4
+789,I Am Sam,Meta Gelly,9/14/1975,Mystery,676165560-9,Voonyx,Filipino,7801,7,1.8,324.15
+790,"Giant of Marathon, The (Battaglia di Maratona, La)",Janenna Waddams,6/8/2005,Mystery,272476315-7,Dynava,Tsonga,9451,6,3.2,8.81
+791,Happy New Year (La Bonne Année),Una Micka,8/23/1963,Fiction,636869377-0,Voonyx,Kannada,3244,10,3.9,698.24
+792,Westward the Women,Merla Milner,9/16/1972,Non-Fiction,814857177-5,Meeveo,Latvian,552,12,3.9,762.0
+793,Sparrows Dance,Clyve Penfold,9/4/1917,Science Fiction,173711641-3,Nlounge,Papiamento,8111,12,4.1,292.57
+794,Nice Guy Johnny,Alejoa Clemmow,3/10/1973,Fiction,704094272-0,Babbleopia,Nepali,8093,20,1.9,522.18
+795,FearDotCom (a.k.a. Fear.com) (a.k.a. Fear Dot Com),Carol Keenan,5/1/2008,Romance,618147168-5,Abatz,Somali,449,11,1.6,92.15
+796,Beyond Hypothermia (Sip si 32 doe),Waylen Cocksedge,11/16/1967,Fiction,804867641-9,Dabshots,Lithuanian,8730,20,1.9,921.56
+797,Kino-Eye (Kinoglaz),Mollee Gatenby,5/1/1973,Fiction,570764003-7,Voonix,Maltese,9829,12,4.5,734.45
+798,Pooh's Grand Adventure: The Search for Christopher Robin,Vidovik Steedman,5/24/2003,Fiction,562288336-9,Gabtype,Romanian,2257,19,4.8,644.4
+799,Down to Earth,Brent Orridge,10/17/1934,Fiction,372550032-0,Eimbee,French,344,20,4.4,269.15
+800,"Holding, The",Aldin McCritchie,7/15/2016,Non-Fiction,877201139-4,Jaloo,Kyrgyz,522,5,3.0,790.31
+801,Von Richthofen and Brown,Chrissie Muckeen,10/10/1931,Science Fiction,675014958-8,Jabbersphere,Chinese,2417,16,3.8,64.49
+802,Year of the Dog,Sidnee Schutte,4/27/1906,Romance,171125643-9,Realcube,Malagasy,5503,18,4.4,559.75
+803,"After Dark, My Sweet",Abramo Vizard,7/1/1918,Mystery,074186144-5,Voolia,Korean,2409,2,5.0,520.86
+804,"Ugly, The",Devlin Diego,11/20/1947,Romance,893462448-5,Pixoboo,Indonesian,8460,11,1.7,948.59
+805,Vodka Lemon,Keary Brushneen,5/7/1917,Science Fiction,333297207-3,Wordify,German,6104,13,2.6,185.57
+806,My Childhood,Tore Jordine,12/1/1986,Romance,782716855-8,Realfire,Hiri Motu,3094,18,4.0,42.41
+807,"Message from Akira Kurosawa: For Beautiful Movies, A (Kurosawa Akira kara no messêji: Utsukushii eiga o)",Winnifred Claworth,8/7/1991,Science Fiction,240852745-7,Demizz,Khmer,2215,20,1.1,210.41
+808,Crossfire Hurricane,Dall Dy,8/11/2012,Fiction,979947376-4,Kazio,New Zealand Sign Language,4740,12,3.7,274.84
+809,Superman Unbound,Hall Hedlestone,7/10/1941,Non-Fiction,045193946-8,Realblab,Greek,7080,4,1.9,444.25
+810,"Fiancee, The (Parineeta)",Genevra McDonnell,2/11/1943,Mystery,520377949-X,Skinix,Tok Pisin,6314,13,4.0,732.96
+811,"Jungle Creature: Hugo, The (Jungledyret) (Go Hugo Go)",Sharity Caro,9/29/2016,Science Fiction,821851469-4,Tekfly,Yiddish,7720,15,2.3,918.47
+812,Crash Dive,Geno Pietrowicz,11/10/2010,Science Fiction,269390546-X,Reallinks,Italian,7658,2,3.3,302.79
+813,Restrepo,Esma Petticrow,5/13/1986,Science Fiction,861437535-2,Yata,Luxembourgish,6984,11,2.3,666.58
+814,Bey Yaar,Lizbeth Ventum,10/25/2017,Science Fiction,980167447-4,Wordware,Oriya,3940,20,1.4,261.48
+815,Bounce,Fidelio Marrison,1/11/1916,Non-Fiction,060598057-8,Gabvine,Tajik,4837,4,1.6,55.65
+816,Murk (Mørke),Amabel Hesey,12/25/1970,Romance,674365871-5,Kwilith,Dari,8997,18,4.2,168.98
+817,Retreat,Mandy Belchamber,6/23/1942,Mystery,005108293-4,Jetwire,Belarusian,1864,9,2.2,752.56
+818,Joysticks,Inessa Awcock,8/26/2000,Mystery,243359186-4,Jetwire,Thai,8230,16,4.4,182.18
+819,Inside Job,Nels Moen,10/27/1969,Fiction,829955997-9,Zooveo,Amharic,7432,11,1.8,328.28
+820,Mimic: Sentinel,Morten Kleinstein,2/24/1951,Romance,960766976-2,Izio,Khmer,640,15,3.4,813.45
+821,Triumph of the Will (Triumph des Willens),Seline Gawne,7/1/1959,Mystery,872728507-3,Quimba,Quechua,2944,12,1.3,892.8
+822,Killer: A Journal of Murder,Melinde Faccini,5/17/1963,Science Fiction,238875408-9,Feedfish,Italian,2545,6,4.5,886.41
+823,This Is Where I Leave You,Rosalinde Landis,1/27/1996,Fiction,188901154-1,Tavu,Persian,1078,19,4.5,75.83
+824,Up,Kayley Pettifor,2/12/2015,Non-Fiction,542717125-8,Tagopia,New Zealand Sign Language,9208,7,3.3,430.41
+825,Metalstorm: The Destruction of Jared-Syn,Valeda Diggons,7/7/1986,Fiction,045938395-7,Jayo,West Frisian,862,20,4.8,584.29
+826,Measuring the World (Die Vermessung der Welt),Tabbi Gooderham,4/19/1959,Fiction,068466174-8,Tagfeed,Romanian,6355,12,5.0,757.91
+827,Bring It On: Fight to the Finish,Elinor Caro,10/21/1947,Fiction,699606151-2,Vinte,Swahili,9828,18,4.3,172.81
+828,"Beginner's Guide to Endings, A",Rozalin Inston,10/13/1980,Fiction,625971294-4,Zooveo,Māori,4223,11,2.9,159.4
+829,"Revolution Will Not Be Televised, The (a.k.a. Chavez: Inside the Coup)",Sheppard Dreigher,9/26/1905,Mystery,578885462-8,Feedmix,Maltese,4664,5,4.5,730.25
+830,Dead Poets Society,Marja Teager,1/16/2002,Fiction,731799920-2,Vinte,Swahili,6584,11,1.1,851.15
+831,"Chess Players, The (Shatranj Ke Khilari)",Zilvia Clelle,10/7/1959,Mystery,875625087-8,Voonyx,Portuguese,751,0,3.3,952.05
+832,Spread,Shepard Berndsen,12/25/1936,Romance,439699989-5,Skibox,Punjabi,9948,7,2.6,388.64
+833,Prison,Ashton O'Sirin,1/10/1975,Mystery,158291128-2,Blogpad,Korean,8486,14,3.9,952.29
+834,"Blue Bird, The",Berte Crosi,8/17/1999,Non-Fiction,215508939-2,Dynabox,Dari,9392,18,3.9,879.83
+835,"Collector, The (Komornik)",Abbey Pammenter,10/15/1974,Romance,023977033-1,Voonder,Swati,1897,9,4.5,901.06
+836,Every Other Week (Varannan vecka),Irwin Thiese,1/28/2009,Non-Fiction,294886653-7,Omba,Oriya,4511,10,1.2,117.42
+837,Castaway,Danya See,5/9/1923,Science Fiction,816450841-1,Yata,Punjabi,7805,3,3.9,194.86
+838,"Dungeon Masters, The",Loraine Kobierra,2/25/2021,Non-Fiction,698384955-8,Wordpedia,Aymara,7175,15,2.5,792.38
+839,Final Approach,Raimund Purves,12/22/1980,Science Fiction,456170862-6,Lajo,Northern Sotho,1919,13,3.2,399.13
+840,Stranger by the Lake (L'inconnu du lac),Reid Bowdidge,6/13/1933,Science Fiction,566834954-3,Bubbletube,Finnish,4412,7,3.1,816.69
+841,Penn & Teller Get Killed,Brook Guerreiro,2/10/1993,Science Fiction,525252437-8,Skippad,Telugu,1241,20,1.4,739.56
+842,"White Countess, The",Riki Bummfrey,5/5/2011,Science Fiction,722873420-3,Buzzshare,Azeri,6770,1,2.7,894.49
+843,Jack Goes Boating,Milt Gerleit,2/3/1909,Non-Fiction,870829874-2,Brightbean,Romanian,2775,1,4.7,882.12
+844,Earthlings,Benyamin Stride,8/24/1932,Mystery,540763642-5,Lazzy,Amharic,944,5,1.4,80.61
+845,Back Street,Emili Allner,11/15/1946,Fiction,478818651-9,Kwinu,Dzongkha,7872,4,3.2,708.92
+846,Halloween 4: The Return of Michael Myers,Giuseppe Wittering,3/2/2012,Mystery,292529057-4,Devcast,Filipino,2954,19,2.9,738.05
+847,Ararat,Zackariah Ransbury,9/26/1930,Fiction,088903862-7,Wordware,Swahili,8518,19,1.3,372.84
+848,The Man in the Orange Jacket,Maura Le Pruvost,7/25/1921,Romance,097335296-5,Brainbox,Moldovan,1634,14,4.4,913.47
+849,"Little Girl Who Lives Down the Lane, The",Ashla Alenshev,6/22/1932,Mystery,080365833-8,Jabberstorm,Afrikaans,5470,9,4.8,160.87
+850,Fall,Cecilia Threlkeld,9/30/1959,Fiction,588066235-7,Edgewire,Amharic,9342,2,2.5,586.75
+851,Grumpy Cat's Worst Christmas Ever,Archambault Rodnight,11/10/1963,Romance,080948348-3,Ainyx,Croatian,662,7,3.8,339.98
+852,Safe,Jone Westfalen,2/23/1974,Romance,966598231-1,Skyba,West Frisian,2883,18,1.9,462.89
+853,Where Do We Go Now?,Rowan Files,2/22/1934,Romance,552819027-4,Livetube,Maltese,1540,4,1.2,547.97
+854,Open Hearts (Elsker dig for evigt),Dorothy Goble,2/28/1916,Mystery,073571499-1,Voonix,Somali,6128,19,2.7,795.97
+855,How I Live Now,Carmelia Brodley,2/18/2022,Fiction,459267929-6,Blogspan,Georgian,4895,17,2.1,463.66
+856,"Princess and the Warrior, The (Krieger und die Kaiserin, Der)",Loy Rocks,11/16/1953,Romance,632484796-9,Photobug,Malay,4688,6,1.7,731.2
+857,"Little Indian, Big City (Un indien dans la ville)",Thorpe Craghead,10/17/1917,Fiction,418892725-9,Jabbersphere,Swati,1365,0,3.1,896.85
+858,Radio On,Beverie Danelet,9/13/1935,Fiction,177426305-X,Roodel,Maltese,66,6,3.1,636.18
+859,Ascension,Ade Kenewel,3/27/2013,Science Fiction,076510443-1,Zoombox,Hungarian,9593,10,2.2,639.75
+860,Bethlehem,Em Greener,9/15/1911,Non-Fiction,871844873-9,Tagopia,Lao,689,17,1.3,835.69
+861,"Harder They Come, The",Giuseppe Meaney,1/18/1916,Science Fiction,611362958-9,Kwinu,French,1508,1,2.9,450.57
+862,"Naked City, The",Dimitry Juzek,11/15/2012,Romance,905569016-3,Edgeblab,Malay,8787,13,3.1,808.4
+863,Toy Story,Sophia Olin,2/5/1920,Romance,326016749-8,BlogXS,French,1466,12,1.5,600.14
+864,Carolina,Alyosha Dursley,3/28/1959,Mystery,568675244-3,Tagpad,Burmese,6944,16,4.3,617.92
+865,Interview with the Vampire: The Vampire Chronicles,Ansell Jeayes,10/27/1930,Science Fiction,922641477-7,Dabjam,Quechua,5227,18,1.9,243.52
+866,School Daze,Norbie Mehaffey,6/30/1973,Romance,846434430-9,Meevee,Pashto,3058,18,1.0,186.39
+867,Friday the 13th,Chic Wilmore,3/9/2018,Science Fiction,276555056-5,Nlounge,Gagauz,932,13,4.5,242.57
+868,Eastern Promises,Carla Stollenbecker,10/12/1935,Fiction,076631643-2,Jayo,Macedonian,3099,15,3.0,813.36
+869,Encounter in the Third Dimension,Roderick St. Quintin,7/8/1995,Mystery,706826308-9,Flipbug,Norwegian,9355,20,4.1,336.44
+870,"Cider House Rules, The",Georgia Maskell,10/23/1926,Fiction,898056286-1,Camido,Punjabi,4563,8,3.3,989.25
+871,"Ballad of the Sad Cafe, The",Janka Clemensen,12/6/1978,Fiction,903968131-7,Skyndu,Armenian,6369,6,4.7,460.1
+872,People Like Us,Ariadne Crennell,11/29/1957,Romance,307177278-5,Twiyo,Thai,1493,18,2.4,990.54
+873,Hidden Agenda,Willdon Ancliffe,4/21/1959,Mystery,776047998-0,Tagfeed,Yiddish,4625,6,2.5,576.65
+874,Angel and the Badman,Renelle Birkhead,9/8/2018,Science Fiction,893470582-5,Oyoyo,Montenegrin,6538,20,2.9,513.32
+875,"Caine Mutiny Court-Martial, The",Kali Harbard,4/9/2010,Fiction,854520198-2,DabZ,Irish Gaelic,3732,10,3.7,170.95
+876,Back from Eternity,Lorenza McLeman,12/15/1910,Fiction,662849862-X,Centimia,Thai,1935,17,4.2,549.05
+877,Jive Turkey,Gilberta Dannell,1/27/2011,Science Fiction,253706319-8,Wikizz,Gagauz,1945,10,3.8,727.13
+878,Two Hands,Steve Ibbotson,9/20/1922,Fiction,200434028-2,Tagtune,Armenian,4553,10,1.1,407.41
+879,Holes in My Shoes,Theresa Sprackling,11/3/1962,Mystery,605347754-0,Twitterbeat,Bislama,8595,4,2.0,332.11
+880,"Astronaut's Wife, The",Ralf Bondar,1/29/1981,Mystery,542961273-1,Twitterwire,Malay,2012,18,2.8,60.95
+881,Time of Roses (Ruusujen aika),Clark Lestor,5/3/1998,Non-Fiction,829456858-9,Babblestorm,Bengali,7008,19,4.0,592.81
+882,"Merry Gentleman, The",Bone Rowntree,1/9/1955,Science Fiction,069763517-1,Twitterbridge,Lithuanian,309,1,3.4,459.46
+883,Lady and the Tramp II: Scamp's Adventure,Tiler Quinnell,3/25/1978,Fiction,817664555-9,Rhynoodle,Mongolian,7629,10,3.0,788.89
+884,V/H/S/2,Lorrayne MacConneely,4/17/1954,Fiction,511530219-5,Devpulse,Finnish,8170,18,4.6,532.38
+885,"School of Flesh, The (École de la chair, L')",Marian Snedden,6/7/1950,Non-Fiction,473459653-0,Eire,Spanish,5156,19,1.4,672.22
+886,Street Fighter: The Legend of Chun-Li,Orella Garside,1/9/1937,Fiction,882862457-4,Gabtune,Estonian,6730,18,2.4,421.36
+887,Are We There Yet?,Eb Kisbee,5/11/1968,Romance,307497478-8,Mycat,New Zealand Sign Language,5890,9,4.6,985.31
+888,Tapped,Laurel Wife,2/10/1977,Fiction,580595816-3,Trudeo,Swahili,3963,13,4.0,878.04
+889,Rigor Mortis (Geung si),Netti Trustrie,12/20/1979,Fiction,419331139-2,Ntags,Italian,1065,1,2.6,97.78
+890,Irreversible (Irréversible),Nicky Jarnell,4/17/1920,Fiction,818817697-4,Voonyx,Estonian,9695,19,2.3,890.81
+891,Summer in Berlin (Sommer vorm Balkon),Ezechiel Meiningen,9/8/1960,Mystery,536176681-X,Yozio,Kurdish,8910,20,3.7,756.71
+892,Oleanna,Gwenneth Dubarry,3/1/1994,Mystery,185616834-4,Voolia,Bengali,9119,17,1.7,396.94
+893,American Vagabond,Humphrey Pond,7/29/1947,Fiction,961091163-3,Abatz,Norwegian,5525,9,4.3,845.11
+894,City Island,Annnora Wallbanks,11/18/1921,Mystery,766882846-X,Skipstorm,Lithuanian,9185,11,3.7,424.06
+895,Scandal Sheet,Dredi Beau,9/12/2008,Romance,972158679-X,Fivespan,Kyrgyz,7222,11,2.1,617.72
+896,Ike: Countdown to D-Day,Jason Slator,2/18/1917,Fiction,274149576-9,Zoovu,Filipino,1558,5,4.3,551.88
+897,Open Water,Cole Stenning,3/10/2020,Science Fiction,706332201-X,Yoveo,Latvian,335,1,1.0,324.62
+898,The Whisperer in Darkness,Sandor McMeeking,8/15/1927,Mystery,135327938-3,Thoughtworks,Somali,7776,7,4.1,193.54
+899,Archie To Riverdale and Back Again,Ronalda Dymidowicz,8/19/2017,Science Fiction,051108168-5,Digitube,Assamese,3682,1,3.0,413.1
+900,Vermin,Deni Goodin,7/1/1984,Romance,845891432-8,Devpulse,Tsonga,5650,3,4.6,15.44
+901,Almost 18,Nicole Scannell,8/30/1967,Science Fiction,278494543-X,Jabberstorm,Danish,3437,6,2.8,157.4
+902,Cluny Brown,Constanta Scarlon,4/19/2011,Fiction,549753913-0,Voolith,French,2343,18,4.2,75.4
+903,Tribute,Rhys Gersam,10/21/1979,Mystery,176141080-6,Skinix,Marathi,4678,11,3.7,858.07
+904,"Thin Blue Line, The",Bernete Catherick,6/3/1909,Non-Fiction,555322279-6,Roomm,Romanian,4398,7,3.0,789.68
+905,Naked Killer (Chik loh go yeung),Neill Kilgallon,9/8/1966,Non-Fiction,467688287-4,Flashdog,Indonesian,3350,17,4.9,553.66
+906,Galaxy Express 999 (Ginga tetsudô Three-Nine),Neile Skyrme,1/3/1913,Fiction,268458017-0,Linkbuzz,Malagasy,1476,8,4.6,649.94
+907,Young Bess,Meaghan Paffett,7/30/1989,Science Fiction,745430502-4,Jabbersphere,Indonesian,2192,9,4.9,628.71
+908,Miracle Run,Janice Dixey,12/14/1944,Non-Fiction,705872546-2,Eimbee,Khmer,9454,14,3.0,92.89
+909,"Cooler, The",Yule Chasteney,2/13/1926,Fiction,990265232-8,Browsedrive,Malayalam,8469,9,3.9,207.38
+910,It Takes Two,Godfry Megroff,6/29/1949,Romance,048703688-3,Roodel,Malagasy,1341,15,2.1,456.15
+911,Let the Fire Burn,Ryley Cherrington,3/10/1924,Romance,592685909-3,Shuffletag,Bulgarian,1398,17,2.7,800.89
+912,Milarepa,Ronald Goble,2/8/2021,Mystery,635446724-2,Demizz,Haitian Creole,2435,13,4.1,544.5
+913,Mujhse Shaadi Karogi,Guendolen Pashby,6/25/1947,Romance,707809401-8,Kamba,Croatian,5291,10,4.2,800.35
+914,'Til There Was You,Ketti Avrahamov,3/25/1930,Romance,414514265-9,Yombu,Croatian,493,20,1.6,7.65
+915,"Green Wave, The",Jeri Tawn,6/27/1914,Non-Fiction,895695924-2,Brightdog,Croatian,9552,12,1.2,413.33
+916,Exit to Eden,Melli Winsor,6/24/1909,Romance,896538504-0,Zoozzy,Lao,3030,10,3.7,739.46
+917,The Color of Milk,Blondell Crosscombe,3/9/1931,Mystery,812523071-8,Layo,Malagasy,473,16,4.7,882.41
+918,Star Wars: Episode I - The Phantom Menace,Somerset Crone,9/29/1988,Non-Fiction,324619986-8,Realblab,Montenegrin,8408,11,4.4,107.61
+919,Towelhead (a.k.a. Nothing is Private),Boycie Girogetti,10/21/1993,Romance,378792614-3,Dabfeed,Dari,8936,0,4.8,632.41
+920,"Wonderful Ice Cream Suit, The",Bobby Sizland,5/10/1975,Science Fiction,671210178-6,Zoomcast,Chinese,4888,9,2.3,846.84
+921,"Rumble in Hong Kong (Nu jing cha) (Heroine, The)",Anatol Bushen,5/13/1952,Science Fiction,228799826-8,Kazio,Indonesian,2735,10,2.7,627.94
+922,Across the Hall,Madelaine Ozanne,12/30/1973,Fiction,870929838-X,Kwinu,Greek,4554,18,4.3,572.28
+923,"Perils of Gwendoline in the Land of the Yik Yak, The",Herbert Wardingly,1/9/1952,Fiction,442277000-4,Tagopia,Lithuanian,6275,3,4.7,555.56
+924,"Beau Serge, Le",Concettina Severy,2/14/1958,Non-Fiction,192642923-0,Thoughtworks,Marathi,5383,2,2.6,68.43
+925,Jade Warrior (Jadesoturi),Gray Cuffley,9/13/2016,Non-Fiction,619440048-X,Gabcube,French,28,6,2.6,979.14
+926,Heavy Metal in Baghdad,Corrine Coolbear,10/6/1974,Mystery,794231303-4,Youbridge,Dzongkha,3788,16,1.1,562.4
+927,Shakes the Clown,Andonis Peregrine,11/11/1967,Fiction,081937345-1,Viva,Māori,1395,19,2.7,99.11
+928,Pink Saris,Vittoria Mogie,8/13/1996,Non-Fiction,164730547-0,Yombu,Sotho,8638,16,5.0,153.69
+929,"Flower of My Secret, The (La flor de mi secreto)",Neal Kalisz,7/26/1946,Romance,371205157-3,Voomm,Malagasy,4968,17,4.8,179.12
+930,Leprechaun 2,Barn Kighly,7/28/1998,Mystery,465363722-9,Feedfish,New Zealand Sign Language,7122,16,4.6,482.21
+931,"Sin of Madelon Claudet, The",Darline Birkenshaw,5/6/1994,Science Fiction,244272414-6,Innojam,Armenian,1459,2,4.7,937.18
+932,"Seagull's Laughter, The (Mávahlátur)",Marcelia Skullet,7/3/1929,Fiction,036381243-1,Innotype,Tok Pisin,1250,19,1.0,735.12
+933,Shakespeare in Love,Jamill Mountford,6/17/1961,Mystery,636656396-9,Twitterlist,Afrikaans,5392,6,4.4,353.71
+934,"Class, The (Entre les murs)",Georgie Cod,12/14/2007,Romance,960318679-1,Flashspan,Kyrgyz,7684,7,1.2,729.98
+935,Little Voice,Westleigh Sholl,11/20/1945,Romance,278106156-5,Youspan,Persian,8197,16,4.0,298.14
+936,"Warlords, The (Tau ming chong)",Rick Hedgeley,8/7/1957,Non-Fiction,426813773-4,Rhynyx,Papiamento,1912,19,3.2,729.82
+937,Winter's Bone,Julio Trimme,3/26/2016,Fiction,841099881-5,Wordify,Haitian Creole,9189,16,4.0,694.0
+938,Chantilly Lace,Yevette Durgan,1/26/1910,Fiction,181579222-1,Skalith,Afrikaans,5516,2,2.4,702.68
+939,Hotel Hell Vacation,Porter O'Harney,12/28/1992,Non-Fiction,928639097-1,Skipstorm,Bosnian,517,8,3.7,751.09
+940,Holy Flying Circus,Tyler Fulop,6/25/1901,Fiction,518613606-9,Brainbox,Gujarati,9271,0,3.3,821.22
+941,"Saimaa Gesture, The (Saimaa-ilmiö)",Giselbert Dikels,9/1/2002,Fiction,564986692-9,Skinte,Swati,8424,11,1.4,692.48
+942,Hanging Up,Eleen Zanicchelli,9/6/1969,Mystery,656872806-3,Avaveo,Zulu,1534,16,3.3,808.27
+943,Horror of Dracula (Dracula),Noemi Franciskiewicz,11/12/2010,Fiction,129148114-1,Avamm,Arabic,6831,9,1.5,706.33
+944,Corto Maltese: The Guilded House of Samarkand (La maison dorée de Samarkand),Way Gietz,4/9/1998,Mystery,838896249-3,Eidel,Catalan,1096,1,1.4,118.29
+945,Outrage,Austen Questier,8/11/1957,Mystery,070235021-4,Trunyx,Swati,1763,13,5.0,508.32
+946,Out of the Ashes,Maryanne Purshouse,8/27/1947,Fiction,550245185-2,Wordtune,Estonian,7755,10,4.1,987.16
+947,Not Cool,Cristina Lillgard,1/30/1993,Mystery,357127552-7,Yakidoo,Sotho,8111,3,2.2,774.82
+948,Always Outnumbered,Sara Drinnan,10/2/1967,Mystery,705109708-3,Kare,West Frisian,9016,5,3.8,317.32
+949,Looker,Colas Lockart,9/28/1976,Romance,607548812-X,Zoonoodle,Nepali,9238,4,1.4,689.25
+950,Child of Rage,Vince Fraczkiewicz,8/23/1951,Science Fiction,588967912-0,Voonix,Punjabi,1671,17,3.9,107.9
+951,Street Fighter: The Legend of Chun-Li,Ertha Tutt,3/31/1915,Fiction,978641134-X,Camimbo,Pashto,7818,0,1.4,782.05
+952,Aimée & Jaguar,Templeton Cove,9/21/1938,Romance,669847322-7,Zooveo,Swati,9719,18,4.5,570.33
+953,Música Campesina (Country Music),Anneliese Gravie,11/30/1951,Science Fiction,189722152-5,Miboo,Hungarian,7991,15,3.1,830.56
+954,"50 Worst Movies Ever Made, The",Mylo Slorach,6/24/1921,Fiction,125360006-6,Riffpedia,Dzongkha,1265,4,2.9,9.99
+955,"Best Man, The",Lisetta Murdoch,11/14/1971,Non-Fiction,544286627-X,Riffwire,Greek,4638,1,2.7,449.31
+956,"Thorn Birds, The",Friedrick Lambin,11/19/1969,Romance,805602402-6,Quire,Hindi,6974,11,2.8,880.85
+957,"Brøken, The (a.k.a. Broken, The)",Gav Andrysek,12/5/1929,Non-Fiction,812265409-6,Leenti,Guaraní,5559,20,4.4,506.23
+958,"Lacemaker, The (Dentellière, La)",Gan Briand,6/12/1912,Fiction,927543243-0,Jetpulse,Tswana,352,3,1.6,318.78
+959,Harry Potter and the Half-Blood Prince,Wylie Thirtle,3/25/1925,Mystery,444226610-7,Rhyzio,Dzongkha,4765,3,3.9,404.16
+960,A Summer in La Goulette,Vaughan Affron,4/6/1951,Romance,175911964-4,Zoomzone,Azeri,9601,20,4.7,559.08
+961,Paper Soldier (Bumazhnyy soldat),Nissa Phoebe,2/22/1982,Non-Fiction,468739467-1,Skipstorm,Tsonga,6468,14,2.4,315.59
+962,"Doll Squad, The",Anthiathia Waterhous,2/3/2000,Romance,368410301-2,Buzzbean,Lao,6248,12,3.6,306.86
+963,To Live (Huozhe),Teresa Abramson,12/20/1984,Science Fiction,544729191-7,Lajo,Spanish,1461,18,4.6,776.77
+964,UnHung Hero,Domingo Shaughnessy,5/18/1908,Romance,713061851-5,Meevee,Icelandic,4882,8,3.7,241.59
+965,Soul Surfer,Tania Ramplee,10/16/2000,Fiction,611764141-9,Agimba,Bislama,2106,7,2.8,429.75
+966,Four Daughters,Kassey Deverell,9/21/1963,Fiction,117698937-5,Babbleblab,Yiddish,6665,16,3.4,439.43
+967,"Bothersome Man, The (Brysomme mannen, Den)",Aubrey Andreini,1/13/1959,Mystery,880835517-9,Bluejam,Tsonga,9671,14,3.1,682.89
+968,Semper Fi,Fraser Dedon,2/16/2020,Science Fiction,628719580-0,Kwideo,Persian,7926,11,2.4,244.4
+969,"Sandglass, The (Sanatorium pod klepsydra)",Anni Northing,2/5/1964,Mystery,319748696-X,Skipstorm,Bosnian,82,13,4.3,327.1
+970,Enter Nowhere,Zaria Jedras,7/27/1938,Non-Fiction,266075515-9,Oyonder,Amharic,8603,8,1.5,473.26
+971,Yumurta (Egg),Dorella Dionsetti,9/7/2007,Science Fiction,256255824-3,Oodoo,Khmer,3157,17,4.7,736.03
+972,Down in the Valley,Chester Allright,6/26/1996,Science Fiction,511882316-1,Kayveo,Pashto,5366,1,3.3,695.74
+973,Icon,Glyn Hursthouse,4/28/2017,Non-Fiction,866841190-X,Feedbug,German,2199,3,2.7,998.04
+974,"Round-Up, The (Szegénylegények)",Nona Soal,2/2/1920,Non-Fiction,607867844-2,Jabberbean,Kazakh,7222,18,4.9,859.33
+975,Genghis Khan,Ted Brunelleschi,5/20/2012,Mystery,245712376-3,Vinte,Malay,8266,19,4.2,720.56
+976,Otakus in Love,Adria Munehay,5/25/1972,Romance,129465329-6,Mynte,Persian,5385,0,3.0,508.49
+977,Old School,Wyatan Switland,2/21/1986,Romance,181174209-2,Trupe,Danish,4693,11,1.1,248.36
+978,"Madness of King George, The",Madelyn Meachem,10/23/1928,Non-Fiction,984607561-8,Midel,Korean,7822,9,2.6,477.85
+979,Forget Me Not,Maud Wardingly,10/24/1996,Science Fiction,435479481-0,Fiveclub,Amharic,9192,4,4.1,540.03
+980,Beloved (Les bien-aimées),Arabella Wroth,6/6/1933,Fiction,880850567-7,Tanoodle,Arabic,2099,13,4.6,333.36
+981,Afghan Star,Gustie Jacklin,10/26/1924,Non-Fiction,778102788-4,Yata,Bosnian,2704,17,3.6,574.08
+982,"Hijacking, A (Kapringen)",Rene Grigson,6/1/1954,Romance,563263057-9,Vidoo,Malayalam,5372,14,4.5,688.74
+983,Hard to Be a God,Wilbert Tester,6/21/1910,Romance,831681023-9,Innotype,Tswana,9138,13,3.6,153.68
+984,Dad Savage,Annora Kearns,11/15/1965,Romance,099378710-X,Oozz,Azeri,8357,19,4.7,555.75
+985,Ishaqzaade,Raddy Fenna,9/16/1929,Non-Fiction,492250676-4,Jabbertype,Azeri,7057,2,1.8,101.06
+986,Floundering,Carmela Sebrens,11/22/2001,Mystery,283840309-5,Oloo,Lao,7585,15,3.6,137.16
+987,American Virgin,Sauncho Eddison,5/10/2005,Fiction,535089558-3,Gigabox,Filipino,4229,6,1.5,665.6
+988,"Invitation, The (Zaproszenie)",Karalee Chalcraft,4/3/2012,Science Fiction,841578008-7,Kazu,Luxembourgish,2104,3,2.6,214.61
+989,"Mayor of Hell, The",Phaedra Ulyet,4/15/1918,Science Fiction,963234178-3,Tanoodle,Bengali,5939,10,3.2,276.38
+990,Bio-Dome,Halette Van den Dael,11/3/1901,Non-Fiction,430242204-1,Chatterpoint,Korean,1919,19,2.8,668.78
+991,Mamma Mia!,Sven McMeekin,4/24/1990,Non-Fiction,984973159-1,Tanoodle,Chinese,7470,19,2.3,853.06
+992,Z Channel: A Magnificent Obsession,Denyse Gooddie,3/25/1915,Romance,993796403-2,Edgeclub,Bulgarian,5267,4,2.2,339.01
+993,Revenge of the Green Dragons,Fletch Mocher,11/30/1945,Science Fiction,606713680-5,Tagfeed,Haitian Creole,2730,18,4.3,121.63
+994,Philanthropy (Filantropica),Sydney Warrell,9/4/1953,Mystery,621026718-1,Dynabox,Dari,727,20,3.8,831.64
+995,"Motivation, The",Malchy Greason,9/25/1910,Mystery,279981610-X,Edgetag,Polish,3352,12,3.5,464.29
+996,People in Places,Becka Scolli,7/2/2000,Fiction,319339119-0,Thoughtbeat,New Zealand Sign Language,8638,0,1.3,949.61
+997,Paulette,Felicdad Churm,12/3/2020,Mystery,847007975-1,Ntag,Georgian,5063,9,3.0,25.85
+998,Duel in the Sun,Madella Trevna,1/10/1953,Mystery,486549338-7,Flipopia,Kannada,1380,2,2.1,608.75
+999,Cry of the City,Artair Andrault,1/30/1950,Non-Fiction,157465518-3,Miboo,West Frisian,4633,8,2.1,676.09
+1000,"Silent Night, Bloody Night",Bax Strangeway,3/13/1918,Science Fiction,419460165-3,Snaptags,Dzongkha,1155,19,1.4,453.44
